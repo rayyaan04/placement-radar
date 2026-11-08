@@ -9,7 +9,7 @@ from pathlib import Path
 def load_seen(path):
     # reads seen.json to see if it exists, else start with empty record
     filePath = Path(path)
-    return json.loads(filePath.read_text()) if filePath.exists() else {}
+    return json.loads(filePath.read_text(encoding="utf-8")) if filePath.exists() else {}
 
 def update(postings, seen, today, window_days = 2):
     # returns recent postings (postings seen within last window_days days - set to 2), and also returns seen: the record with any brand new keys added

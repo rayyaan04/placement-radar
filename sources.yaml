@@ -1,3 +1,58 @@
+# companies the fetcher reads directly, tier 1 and whitelisted from watchlist.csv
+# board counts checked 8 nov 2026 against each platform's live feed
+
+# greenhouse
 - company: Anthropic
   platform: greenhouse
-  board: anthropic
+  board: anthropic          # 675 jobs
+- company: Airbnb
+  platform: greenhouse
+  board: airbnb             # 205 jobs
+- company: Cloudflare
+  platform: greenhouse
+  board: cloudflare         # 464 jobs
+- company: Jane Street
+  platform: greenhouse
+  board: janestreet         # 219 jobs
+- company: IMC
+  platform: greenhouse
+  board: imc                # 162 jobs
+- company: Optiver
+  platform: greenhouse
+  board: optiverus          # 155 jobs, the "optiver" board is empty
+- company: Hudson River Trading
+  platform: greenhouse
+  board: wehrtyou           # 83 jobs, hrt's board name is wehrtyou
+- company: XTX Markets
+  platform: greenhouse
+  board: xtxmarketstechnologies  # 7 jobs
+- company: Sony
+  platform: greenhouse
+  board: sonyinteractiveentertainmentglobal  # 216 jobs, playstation only, not all of sony
+
+# lever
+- company: Spotify
+  platform: lever
+  board: spotify            # 85 jobs
+
+# ashby
+- company: OpenAI
+  platform: ashby
+  board: openai             # 816 jobs
+
+# workday, not checked live yet, health.json will show an error if any part is wrong
+- company: NVIDIA
+  platform: workday
+  host: nvidia.wd5.myworkdayjobs.com
+  tenant: nvidia
+  site: NVIDIAExternalCareerSite
+- company: AMD
+  platform: workday
+  host: amd.wd1.myworkdayjobs.com
+  tenant: amd
+  site: External
+- company: Salesforce
+  platform: workday
+  host: salesforce.wd12.myworkdayjobs.com
+  tenant: salesforce
+  site: External_Career_Site

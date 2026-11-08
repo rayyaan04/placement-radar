@@ -55,7 +55,7 @@ def write_json(path, data):
     #saves data as indented json, creating data folder if needed
     # ensure_ascii=False keeps characters readable 
     path.parent.mkdir(parents=True, exist_ok=True)
-    path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n")
+    path.write_text(json.dumps(data, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
 
 
 def main(argv=None):
@@ -63,7 +63,7 @@ def main(argv=None):
     root = Path(argv[0]) if argv else Path(".")
 
     #read list of sources e.g. [{"company": "monzo", "platform": "greenhouse", "board": "monzo"}]
-    sources = yaml.safe_load((root / "sources.yaml").read_text())
+    sources = yaml.safe_load((root / "sources.yaml").read_text(encoding="utf-8"))
     now = dt.datetime.now(dt.timezone.utc)
     today = now.date().isoformat()  # turns date into YYYY-MM-DD format
     # 1. read every source
