@@ -1,7 +1,7 @@
 # tests for each websites adapter 
 # each test feeds the adapter a sample response
 
-from placement_radar.sources import ashby, greenhouse, lever
+from placement_radar.sources import ashby, greenhouse, lever, workday
 
 def test_greenhouse(fixture):
     out = greenhouse.fetch({"company": "Ryoshu", "board": "ryoshu"}, get=lambda url: fixture("greenhouse.json"))
@@ -18,3 +18,22 @@ def test_lever(fixture):
 def test_ashby(fixture):
     out = ashby.fetch({"company": "Ryoshu", "board": "ryoshu"}, get=lambda url: fixture("ashby.json"))
     assert out[0].url == "https://jobs.ashbyhq.com/ryoshu/x1"
+
+
+
+def test_workday(fixture):
+    calls = [] # records every call adapter marks
+
+    def get(url, method="GET", body=None):
+        # fake download: POST = the job list, GET = detail of one job
+        calls.append((method, url))
+        return fixture("workday_detail.json") if method == "GET" else fixture("workday_list.json")
+
+    cfg = {"company": "AMD", "host": "amd.wd1.myworkdayjobs.com", "tenant": "amd", "site": "External", "searches": ["intern"]}
+    out = workday.fetch(cfg, get=get)
+    assert len(out) == 2 # intern and principal engineer
+    intern = next(p for p in out if "Intern" in p.title)
+    # public link is built from host, site, and job path
+    assert intern.url == "https://amd.wd1.myworkdayjobs.com/en-US/External/job/Edinburgh/Summer-2027-Software-Engineer-Intern_JR1"
+    assert "Python" in intern.description # description came from detail GET call
+    assert [m for m, _ in calls] == ["POST", "GET"] # one list (post) and one detail (get) call for intern only. principal isnt early careers, so no detail call for it

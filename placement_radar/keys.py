@@ -4,7 +4,7 @@ import re
 
 def slug(text):
     # turns text into slug to be able to be used as a key
-    # lowercases it, then turns anything that isnt a letter or number into a hypen
+    # lowercases it, then turns anything that isnt a letter or number into a hyphen
     return re.sub(r"[^a-z0-9]+", "-", (text or "").lower()).strip("-")
 
 def make_key(company, title, location):
