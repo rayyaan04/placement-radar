@@ -32,8 +32,8 @@ def test_workday(fixture):
     cfg = {"company": "AMD", "host": "amd.wd1.myworkdayjobs.com", "tenant": "amd", "site": "External", "searches": ["intern"]}
     out = workday.fetch(cfg, get=get)
     assert len(out) == 2 # intern and principal engineer
-    intern = next(p for p in out if "Intern" in p.title)
+    intern = next(posting for posting in out if "Intern" in posting.title)
     # public link is built from host, site, and job path
     assert intern.url == "https://amd.wd1.myworkdayjobs.com/en-US/External/job/Edinburgh/Summer-2027-Software-Engineer-Intern_JR1"
     assert "Python" in intern.description # description came from detail GET call
-    assert [m for m, _ in calls] == ["POST", "GET"] # one list (post) and one detail (get) call for intern only. principal isnt early careers, so no detail call for it
+    assert [method for method, _ in calls] == ["POST", "GET"] # one list (post) and one detail (get) call for intern only. principal isnt early careers, so no detail call for it

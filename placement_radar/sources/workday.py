@@ -36,9 +36,9 @@ def fetch(cfg, get=fetch_json, page=20, max_pages=10):
             # stop when page is empty, or we have passed total no. of jobs
             if not jobs or offset >= data.get("total", 0):
                 break
-    for path, p in found.items():
-        if is_early_careers(p):
+    for path, posting in found.items():
+        if is_early_careers(posting):
             info = get(f"{base}{path}").get("jobPostingInfo", {})
-            p.description = info.get("jobDescription", "")
+            posting.description = info.get("jobDescription", "")
     return list(found.values())
     
