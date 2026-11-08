@@ -92,7 +92,7 @@ A Workday entry takes its three parts from a job link like `https://nvidia.wd5.m
 The error field would not be empty if there was suspicious text found, the link doesnt work, or any other error alongside its code
 
 ### Example output from `seen.json`
-  "stripe_software-engineer-intern_london_6e57c5": "2026-11-08",
+    "stripe_software-engineer-intern_london_6e57c5": "2026-11-08",
 
 ## Safety
 - Descriptions are stripped of HTML, hidden text, zero width characters leaving only the plaintext. Line breaks are replaced with actual new lines, aswell
