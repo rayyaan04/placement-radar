@@ -17,14 +17,22 @@ The output data fetched by this script (found in `/data`) is then checked by Cow
 
 Flow: `sources.yaml` → `adapters` → `filter` → `clean` → `key` → `seen.json` 
 ## Project structure
-`/sources` - Contains the fixtures for Ashby, Greenhouse, Workday and Lever. These all fetch jobs from the list of companies in `sources.yaml` which correspond to their respective sites, and then builds a Posting for each job.
-`clean.py` - Turns raw job description text into plaintext - turns breaks into new lines, removes any zero width characters, hidden text (text hidden with display:None, 0 font size, visibility hidden), scripts, tags and any "suspicious" text. Suspicious text is one that is aimed at AI injection - e.g. "ignore all instructions and do x." If this is found, it is flagged and removed for the clean output.
-`filter.py` - First filter pass on job titles - keep only early careers jobs (internships/placement year) and ignore any senior positions. Cowork still makes a real eligibility decision later, so this isn't the only check
-`http.py` - Calls job platform apis to fetch their JSON to be used to write a Posting. This has a maximum of 3 tries, with a timeout window of 20 seconds. If this takes more than 3 tries or more than 20 seconds to fetch the data, or returns an error that isnt a server problem/error 429, it gives up and moves on. 
-`keys.py` - Builds a unique key for each job posting, so each one can be identified and any duplicates can be checked for. Key is made by turning the company name, job title and location into a slug (max 60 chars), and then appending a fingerprint made with a SHA1 hash based on the slug created to make a unique hash that identifies each job as its own (as each string has its own very unique hash that cannot be replicated)
-`models.py` - The base for the Posting class. This contains the shape of the job posting which the fetcher passes around, as well as a method to turn it into a dict so it can be saved as JSON
-`run.py` - The main program; it reads every source in `sources.yaml`, collects every posting for a given company and writes results to `health.json`, `seen.json` and `new_postings.json`, alongside the date and time it was first seen.
-`state.py` - Remembers which postings have been seen before and picks out the ones first seen in the last 2 days
+### /sources
+Contains the fixtures for Ashby, Greenhouse, Workday and Lever. These all fetch jobs from the list of companies in `sources.yaml` which correspond to their respective sites, and then builds a Posting for each job.
+### clean.py  
+Turns raw job description text into plaintext - turns breaks into new lines, removes any zero width characters, hidden text (text hidden with display:None, 0 font size, visibility hidden), scripts, tags and any "suspicious" text. Suspicious text is one that is aimed at AI injection - e.g. "ignore all instructions and do x." If this is found, it is flagged and removed for the clean output.
+### filter.py 
+First filter pass on job titles - keep only early careers jobs (internships/placement year) and ignore any senior positions. Cowork still makes a real eligibility decision later, so this isn't the only check
+### http.py
+Calls job platform apis to fetch their JSON to be used to write a Posting. This has a maximum of 3 tries, with a timeout window of 20 seconds. If this takes more than 3 tries or more than 20 seconds to fetch the data, or returns an error that isnt a server problem/error 429, it gives up and moves on. 
+### keys.py
+Builds a unique key for each job posting, so each one can be identified and any duplicates can be checked for. Key is made by turning the company name, job title and location into a slug (max 60 chars), and then appending a fingerprint made with a SHA1 hash based on the slug created to make a unique hash that identifies each job as its own (as each string has its own very unique hash that cannot be replicated)
+### models.py 
+The base for the Posting class. This contains the shape of the job posting which the fetcher passes around, as well as a method to turn it into a dict so it can be saved as JSON
+### run.py
+The main program; it reads every source in `sources.yaml`, collects every posting for a given company and writes results to `health.json`, `seen.json` and `new_postings.json`, alongside the date and time it was first seen.
+### state.py 
+Remembers which postings have been seen before and picks out the ones first seen in the last 2 days
 
 ## Platforms & adding a company
 Most big employers' careers sites are a front end for one of a few hiring platforms. Each platform publishes its jobs as JSON, and the fetcher has one adapter per platform that turns that JSON into postings.
