@@ -44,9 +44,9 @@ def test_gives_up_after_tries():
     with pytest.raises(FetchError):
         fetch_json("u", session=s, sleep=lambda s: None)
 
-    def test_no_retry_on_404():
-        # 404 meanss wrong address so fail without retry
-        s = Session([Response(404)])
-        with pytest.raises(FetchError):
-            fetch_json("u", session=s, sleep=lambda s: None)
-        assert s.calls == 1
+def test_no_retry_on_404():
+    # 404 meanss wrong address so fail without retry
+    s = Session([Response(404)])
+    with pytest.raises(FetchError):
+        fetch_json("u", session=s, sleep=lambda s: None)
+    assert s.calls == 1
