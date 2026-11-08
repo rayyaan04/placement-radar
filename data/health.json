@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T20:04:43+00:00",
+  "generated": "2026-11-08T20:11:11+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -90,6 +90,125 @@
       "platform": "workday",
       "found": 45,
       "kept": 3,
+      "error": ""
+    },
+    {
+      "company": "Stripe",
+      "platform": "greenhouse",
+      "found": 766,
+      "kept": 21,
+      "error": ""
+    },
+    {
+      "company": "Databricks",
+      "platform": "greenhouse",
+      "found": 922,
+      "kept": 14,
+      "error": ""
+    },
+    {
+      "company": "Datadog",
+      "platform": "greenhouse",
+      "found": 401,
+      "kept": 6,
+      "error": ""
+    },
+    {
+      "company": "DoorDash",
+      "platform": "greenhouse",
+      "found": 439,
+      "kept": 9,
+      "error": ""
+    },
+    {
+      "company": "MongoDB",
+      "platform": "greenhouse",
+      "found": 374,
+      "kept": 3,
+      "error": ""
+    },
+    {
+      "company": "Monzo",
+      "platform": "greenhouse",
+      "found": 58,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "company": "Ocado Technology",
+      "platform": "greenhouse",
+      "found": 49,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "company": "Rockstar Games",
+      "platform": "greenhouse",
+      "found": 22,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "company": "Wise",
+      "platform": "greenhouse",
+      "found": 18,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "company": "Snowflake",
+      "platform": "ashby",
+      "found": 372,
+      "kept": 5,
+      "error": ""
+    },
+    {
+      "company": "Intel",
+      "platform": "workday",
+      "found": 80,
+      "kept": 42,
+      "error": ""
+    },
+    {
+      "company": "Adobe",
+      "platform": "workday",
+      "found": 45,
+      "kept": 27,
+      "error": ""
+    },
+    {
+      "company": "PayPal",
+      "platform": "workday",
+      "found": 43,
+      "kept": 6,
+      "error": ""
+    },
+    {
+      "company": "Mastercard",
+      "platform": "workday",
+      "found": 50,
+      "kept": 5,
+      "error": ""
+    },
+    {
+      "company": "HPE",
+      "platform": "workday",
+      "found": 68,
+      "kept": 47,
+      "error": ""
+    },
+    {
+      "company": "Autodesk",
+      "platform": "workday",
+      "found": 3,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "company": "eBay",
+      "platform": "workday",
+      "found": 44,
+      "kept": 1,
       "error": ""
     }
   ]

@@ -46,13 +46,81 @@
   host: nvidia.wd5.myworkdayjobs.com
   tenant: nvidia
   site: NVIDIAExternalCareerSite
-- company: AMD
-  platform: workday
-  host: amd.wd1.myworkdayjobs.com
-  tenant: amd
-  site: External
 - company: Salesforce
   platform: workday
   host: salesforce.wd12.myworkdayjobs.com
   tenant: salesforce
   site: External_Career_Site
+
+# tier 2a, added 8 nov 2026
+
+# greenhouse
+- company: Stripe
+  platform: greenhouse
+  board: stripe             # 766 jobs
+- company: Databricks
+  platform: greenhouse
+  board: databricks         # 922 jobs
+- company: Datadog
+  platform: greenhouse
+  board: datadog            # 401 jobs
+- company: DoorDash
+  platform: greenhouse
+  board: doordashusa        # 439 jobs, the "doordash" board is empty
+- company: MongoDB
+  platform: greenhouse
+  board: mongodb            # 374 jobs
+- company: Monzo
+  platform: greenhouse
+  board: monzo              # 58 jobs
+- company: Ocado Technology
+  platform: greenhouse
+  board: ocadogroup         # 49 jobs
+- company: Rockstar Games
+  platform: greenhouse
+  board: rockstargames      # 22 jobs
+- company: Wise
+  platform: greenhouse
+  board: wise               # 18 jobs, low for wise so check wise.jobs isnt fuller
+
+# ashby
+- company: Snowflake
+  platform: ashby
+  board: snowflake          # 372 jobs
+
+# workday, not checked live, delete any that show an error in health.json
+- company: Intel
+  platform: workday
+  host: intel.wd1.myworkdayjobs.com
+  tenant: intel
+  site: External
+- company: Adobe
+  platform: workday
+  host: adobe.wd5.myworkdayjobs.com
+  tenant: adobe
+  site: external_experienced
+- company: PayPal
+  platform: workday
+  host: paypal.wd1.myworkdayjobs.com
+  tenant: paypal
+  site: jobs
+- company: Mastercard
+  platform: workday
+  host: mastercard.wd1.myworkdayjobs.com
+  tenant: mastercard
+  site: CorporateCareers
+- company: HPE
+  platform: workday
+  host: hpe.wd5.myworkdayjobs.com
+  tenant: hpe
+  site: Jobsathpe
+- company: Autodesk
+  platform: workday
+  host: autodesk.wd1.myworkdayjobs.com
+  tenant: autodesk
+  site: Ext
+- company: eBay
+  platform: workday
+  host: ebay.wd5.myworkdayjobs.com
+  tenant: ebay
+  site: apply
