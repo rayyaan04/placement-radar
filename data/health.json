@@ -1,17 +1,17 @@
 {
-  "generated": "2026-11-09T16:21:46+00:00",
+  "generated": "2026-11-09T19:15:26+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 675,
+      "found": 677,
       "kept": 1,
       "error": ""
     },
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 204,
+      "found": 203,
       "kept": 0,
       "error": ""
     },
@@ -25,7 +25,7 @@
     {
       "company": "Jane Street",
       "platform": "greenhouse",
-      "found": 218,
+      "found": 220,
       "kept": 0,
       "error": ""
     },
@@ -39,7 +39,7 @@
     {
       "company": "Optiver",
       "platform": "greenhouse",
-      "found": 154,
+      "found": 153,
       "kept": 16,
       "error": ""
     },
@@ -60,7 +60,7 @@
     {
       "company": "Sony",
       "platform": "greenhouse",
-      "found": 222,
+      "found": 225,
       "kept": 0,
       "error": ""
     },
@@ -74,7 +74,7 @@
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 813,
+      "found": 810,
       "kept": 1,
       "error": ""
     },
@@ -95,42 +95,42 @@
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 768,
-      "kept": 21,
+      "found": 772,
+      "kept": 20,
       "error": ""
     },
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 922,
+      "found": 919,
       "kept": 13,
       "error": ""
     },
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 404,
+      "found": 402,
       "kept": 6,
       "error": ""
     },
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 441,
+      "found": 440,
       "kept": 9,
       "error": ""
     },
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 376,
+      "found": 375,
       "kept": 3,
       "error": ""
     },
     {
       "company": "Monzo",
       "platform": "greenhouse",
-      "found": 65,
+      "found": 66,
       "kept": 0,
       "error": ""
     },
