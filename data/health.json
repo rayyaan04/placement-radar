@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-08T21:53:22+00:00",
+  "generated": "2026-11-09T01:30:07+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -39,8 +39,8 @@
     {
       "company": "Optiver",
       "platform": "greenhouse",
-      "found": 155,
-      "kept": 17,
+      "found": 154,
+      "kept": 16,
       "error": ""
     },
     {
@@ -74,7 +74,7 @@
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 816,
+      "found": 817,
       "kept": 1,
       "error": ""
     },
@@ -95,7 +95,7 @@
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 766,
+      "found": 767,
       "kept": 21,
       "error": ""
     },
@@ -109,7 +109,7 @@
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 401,
+      "found": 402,
       "kept": 6,
       "error": ""
     },
@@ -186,8 +186,8 @@
     {
       "company": "Mastercard",
       "platform": "workday",
-      "found": 50,
-      "kept": 5,
+      "found": 48,
+      "kept": 4,
       "error": ""
     },
     {
