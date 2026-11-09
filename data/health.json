@@ -1,17 +1,17 @@
 {
-  "generated": "2026-11-09T04:19:02+00:00",
+  "generated": "2026-11-09T07:47:17+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 676,
+      "found": 677,
       "kept": 1,
       "error": ""
     },
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 206,
+      "found": 205,
       "kept": 0,
       "error": ""
     },
@@ -60,7 +60,7 @@
     {
       "company": "Sony",
       "platform": "greenhouse",
-      "found": 216,
+      "found": 217,
       "kept": 0,
       "error": ""
     },
@@ -74,7 +74,7 @@
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 814,
+      "found": 813,
       "kept": 1,
       "error": ""
     },
@@ -116,7 +116,7 @@
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 439,
+      "found": 440,
       "kept": 9,
       "error": ""
     },
@@ -180,14 +180,14 @@
       "company": "PayPal",
       "platform": "workday",
       "found": 43,
-      "kept": 6,
+      "kept": 7,
       "error": ""
     },
     {
       "company": "Mastercard",
       "platform": "workday",
       "found": 48,
-      "kept": 4,
+      "kept": 6,
       "error": ""
     },
     {
