@@ -33,6 +33,11 @@ def test_main_writes_outputs(tmp_path, monkeypatch):
     monkeypatch.setitem(run.ADAPTERS, "fake", lambda cfg: [Posting("ryoshu", "Data Intern", "Leeds", "u", "fake")])
     (tmp_path / "sources.yaml").write_text("- company: ryoshu\n  platform: fake\n")
     run.main([str(tmp_path)])
+    # the index has no descriptions and each posting gets its own file
+    index = json.loads((tmp_path / "data" / "new_postings_index.json").read_text(encoding="utf-8"))
+    assert "description" not in index["postings"][0]
+    postingKey = index["postings"][0]["key"]
+    assert (tmp_path / "data" / "postings" / f"{postingKey}.json").exists()
     newPostings = json.loads((tmp_path / "data" / "new_postings.json").read_text())
     assert [posting["title"] for posting in newPostings["postings"]] == ["Data Intern"]
     run.main([str(tmp_path)])  # second run same day: still inside the window, nothing duplicated

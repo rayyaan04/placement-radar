@@ -1,4 +1,4 @@
-# builds a stable id (key) for each posting. Same job gets teh same key, so we can tell if theres a duplicate
+# builds a stable id (key) for each posting. Same job gets the same key, so we can tell if theres a duplicate
 import hashlib
 import re
 

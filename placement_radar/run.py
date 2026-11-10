@@ -6,6 +6,7 @@ import json
 import sys
 from pathlib import Path
 import yaml
+import shutil
 
 from placement_radar.clean import clean_text
 from placement_radar.filter import is_early_careers
@@ -70,11 +71,28 @@ def main(argv=None):
     postings, health = collect(sources)
     # 2. compare with whats been seen before. keep recent ones
     recent, seen = update(postings, load_seen(root/"data"/"seen.json"), today)
-    # save 3 output files. new_postings.json is what cowork reads each morning,  including the time it was generated
+    # save the output files. new_postings.json keeps every posting in one file for reference,
+    # cowork reads the smaller index and the per posting files below instead
     write_json(root/"data"/"new_postings.json", {
         "generated": now.isoformat(timespec="seconds"),
         "window_days": 2,
         "postings": [posting.to_dict() for posting in recent],
+    })
+    # postings/ holds one small file per recent posting with its full description
+    # cleared each run so it only holds what is inside the window
+    postingsFolder = root / "data" / "postings"
+    shutil.rmtree(postingsFolder, ignore_errors=True)
+    for posting in recent:
+        write_json(postingsFolder / f"{posting.key}.json", posting.to_dict())
+    # the index lists every recent posting without its description
+    # so it stays small enough for cowork to read in one go
+    write_json(root / "data" / "new_postings_index.json", {
+        "generated": now.isoformat(timespec="seconds"),
+        "window_days": 2,
+        "postings": [
+            {field: value for field, value in posting.to_dict().items() if field != "description"}
+            for posting in recent
+        ],
     })
     # health.json says which sources worked, cowork uses it to know what to skip
     write_json(root/"data"/"health.json", {"generated": now.isoformat(timespec="seconds"), "sources": health})
