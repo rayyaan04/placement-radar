@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T10:12:38+00:00",
+  "generated": "2026-11-10T13:26:04+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -25,14 +25,14 @@
     {
       "company": "Jane Street",
       "platform": "greenhouse",
-      "found": 220,
+      "found": 221,
       "kept": 0,
       "error": ""
     },
     {
       "company": "IMC",
       "platform": "greenhouse",
-      "found": 160,
+      "found": 159,
       "kept": 19,
       "error": ""
     },
@@ -60,21 +60,21 @@
     {
       "company": "Sony",
       "platform": "greenhouse",
-      "found": 228,
+      "found": 230,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Spotify",
       "platform": "lever",
-      "found": 85,
+      "found": 86,
       "kept": 0,
       "error": ""
     },
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 827,
+      "found": 826,
       "kept": 1,
       "error": ""
     },
@@ -89,55 +89,55 @@
       "company": "Salesforce",
       "platform": "workday",
       "found": 45,
-      "kept": 1,
+      "kept": 0,
       "error": ""
     },
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 774,
+      "found": 773,
       "kept": 20,
       "error": ""
     },
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 920,
+      "found": 919,
       "kept": 13,
       "error": ""
     },
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 400,
+      "found": 397,
       "kept": 6,
       "error": ""
     },
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 436,
+      "found": 437,
       "kept": 9,
       "error": ""
     },
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 373,
+      "found": 372,
       "kept": 3,
       "error": ""
     },
     {
       "company": "Monzo",
       "platform": "greenhouse",
-      "found": 68,
+      "found": 67,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Ocado Technology",
       "platform": "greenhouse",
-      "found": 49,
+      "found": 54,
       "kept": 0,
       "error": ""
     },
@@ -187,13 +187,13 @@
       "company": "Mastercard",
       "platform": "workday",
       "found": 47,
-      "kept": 9,
+      "kept": 8,
       "error": ""
     },
     {
       "company": "HPE",
       "platform": "workday",
-      "found": 68,
+      "found": 69,
       "kept": 47,
       "error": ""
     },
