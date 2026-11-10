@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T13:26:04+00:00",
+  "generated": "2026-11-10T13:50:37+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -18,7 +18,7 @@
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 466,
+      "found": 467,
       "kept": 4,
       "error": ""
     },
@@ -60,14 +60,14 @@
     {
       "company": "Sony",
       "platform": "greenhouse",
-      "found": 230,
+      "found": 229,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Spotify",
       "platform": "lever",
-      "found": 86,
+      "found": 85,
       "kept": 0,
       "error": ""
     },
@@ -130,7 +130,7 @@
     {
       "company": "Monzo",
       "platform": "greenhouse",
-      "found": 67,
+      "found": 63,
       "kept": 0,
       "error": ""
     },
