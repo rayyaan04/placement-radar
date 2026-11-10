@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T16:08:01+00:00",
+  "generated": "2026-11-10T19:16:53+00:00",
   "window_days": 2,
   "postings": [
     {
@@ -26,12 +26,34 @@
     },
     {
       "company": "Salesforce",
-      "title": "Summer 2027 Intern - AI Foundry Incubation",
+      "title": "Fin Engineering Intern",
+      "location": "Ireland - Dublin",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Ireland---Dublin/Fin-Engineering-Intern_JR367686",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "salesforce_fin-engineering-intern_ireland-dublin_58bd91",
+      "first_seen": "2026-11-10",
+      "suspicious": false
+    },
+    {
+      "company": "Salesforce",
+      "title": "Summer 2027 Intern - AI Research Incubator",
       "location": "2 Locations",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655",
       "source": "workday",
       "posted": "Posted Today",
-      "key": "salesforce_summer-2027-intern-ai-foundry-incubation_2-locations_028d65",
+      "key": "salesforce_summer-2027-intern-ai-research-incubator_2-locations_dbd171",
+      "first_seen": "2026-11-10",
+      "suspicious": false
+    },
+    {
+      "company": "Salesforce",
+      "title": "Engineering Intern",
+      "location": "United Kingdom - London",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom---London/Engineering-Intern_JR367683",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "salesforce_engineering-intern_united-kingdom-london_bc6e36",
       "first_seen": "2026-11-10",
       "suspicious": false
     },
@@ -125,12 +147,34 @@
     },
     {
       "company": "HPE",
+      "title": "Sales Intern",
+      "location": "Manchester, Lancashire, United Kingdom",
+      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Manchester-Lancashire-United-Kingdom/Sales-Intern_1216754",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "hpe_sales-intern_manchester_8806be",
+      "first_seen": "2026-11-10",
+      "suspicious": false
+    },
+    {
+      "company": "HPE",
       "title": "Interns",
       "location": "Winnersh, Berkshire, United Kingdom",
       "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Interns_1216748",
       "source": "workday",
       "posted": "Posted Today",
       "key": "hpe_interns_winnersh_330272",
+      "first_seen": "2026-11-10",
+      "suspicious": false
+    },
+    {
+      "company": "HPE",
+      "title": "Finance Strategy & Planning Intern",
+      "location": "Winnersh, Berkshire, United Kingdom",
+      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Finance-Strategy---Planning-Intern_1206153",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "hpe_finance-strategy-planning-intern_winnersh_457e7e",
       "first_seen": "2026-11-10",
       "suspicious": false
     }
