@@ -1,17 +1,17 @@
 {
-  "generated": "2026-11-10T19:16:53+00:00",
+  "generated": "2026-11-10T21:57:24+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 676,
+      "found": 678,
       "kept": 1,
       "error": ""
     },
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 205,
+      "found": 203,
       "kept": 0,
       "error": ""
     },
@@ -46,7 +46,7 @@
     {
       "company": "Hudson River Trading",
       "platform": "greenhouse",
-      "found": 82,
+      "found": 81,
       "kept": 5,
       "error": ""
     },
@@ -67,14 +67,14 @@
     {
       "company": "Spotify",
       "platform": "lever",
-      "found": 85,
+      "found": 86,
       "kept": 0,
       "error": ""
     },
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 830,
+      "found": 831,
       "kept": 1,
       "error": ""
     },
@@ -88,8 +88,8 @@
     {
       "company": "Salesforce",
       "platform": "workday",
-      "found": 45,
-      "kept": 3,
+      "found": 46,
+      "kept": 4,
       "error": ""
     },
     {
@@ -102,7 +102,7 @@
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 914,
+      "found": 917,
       "kept": 13,
       "error": ""
     },
@@ -116,14 +116,14 @@
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 442,
+      "found": 443,
       "kept": 9,
       "error": ""
     },
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 373,
+      "found": 377,
       "kept": 3,
       "error": ""
     },
@@ -159,7 +159,7 @@
       "company": "Snowflake",
       "platform": "ashby",
       "found": 373,
-      "kept": 5,
+      "kept": 6,
       "error": ""
     },
     {
@@ -173,7 +173,7 @@
       "company": "Adobe",
       "platform": "workday",
       "found": 45,
-      "kept": 27,
+      "kept": 29,
       "error": ""
     },
     {
@@ -193,14 +193,14 @@
     {
       "company": "HPE",
       "platform": "workday",
-      "found": 70,
+      "found": 71,
       "kept": 48,
       "error": ""
     },
     {
       "company": "Autodesk",
       "platform": "workday",
-      "found": 3,
+      "found": 4,
       "kept": 0,
       "error": ""
     },
