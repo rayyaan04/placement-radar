@@ -1,17 +1,17 @@
 {
-  "generated": "2026-11-11T04:16:28+00:00",
+  "generated": "2026-11-11T07:36:18+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 678,
+      "found": 677,
       "kept": 1,
       "error": ""
     },
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 201,
+      "found": 199,
       "kept": 0,
       "error": ""
     },
@@ -60,7 +60,7 @@
     {
       "company": "Sony",
       "platform": "greenhouse",
-      "found": 232,
+      "found": 233,
       "kept": 0,
       "error": ""
     },
@@ -74,7 +74,7 @@
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 827,
+      "found": 828,
       "kept": 1,
       "error": ""
     },
@@ -95,7 +95,7 @@
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 780,
+      "found": 779,
       "kept": 21,
       "error": ""
     },
@@ -109,7 +109,7 @@
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 394,
+      "found": 392,
       "kept": 6,
       "error": ""
     },
@@ -123,7 +123,7 @@
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 377,
+      "found": 376,
       "kept": 3,
       "error": ""
     },
@@ -158,7 +158,7 @@
     {
       "company": "Snowflake",
       "platform": "ashby",
-      "found": 374,
+      "found": 373,
       "kept": 6,
       "error": ""
     },
