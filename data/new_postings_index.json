@@ -1,7 +1,84 @@
 {
-  "generated": "2026-11-11T13:30:35+00:00",
+  "generated": "2026-11-11T16:10:04+00:00",
   "window_days": 2,
   "postings": [
+    {
+      "company": "Airbnb",
+      "title": "Communications Intern, France",
+      "location": "Paris, France",
+      "url": "https://careers.airbnb.com/positions/8376005?gh_jid=8376005",
+      "source": "greenhouse",
+      "posted": "2026-11-11",
+      "key": "airbnb_communications-intern-france_paris_094a7a",
+      "first_seen": "2026-11-11",
+      "suspicious": false
+    },
+    {
+      "company": "Airbnb",
+      "title": "Communications Intern, Italy & SEE",
+      "location": "Milan, Italy",
+      "url": "https://careers.airbnb.com/positions/8375962?gh_jid=8375962",
+      "source": "greenhouse",
+      "posted": "2026-11-11",
+      "key": "airbnb_communications-intern-italy-see_milan_14879d",
+      "first_seen": "2026-11-11",
+      "suspicious": false
+    },
+    {
+      "company": "Airbnb",
+      "title": "Market Associate Intern, Experiences",
+      "location": "Paris, France",
+      "url": "https://careers.airbnb.com/positions/8376087?gh_jid=8376087",
+      "source": "greenhouse",
+      "posted": "2026-11-11",
+      "key": "airbnb_market-associate-intern-experiences_paris_45b5b5",
+      "first_seen": "2026-11-11",
+      "suspicious": false
+    },
+    {
+      "company": "Airbnb",
+      "title": "Marketing & CRM Intern, Experiences",
+      "location": "Paris, France",
+      "url": "https://careers.airbnb.com/positions/8376124?gh_jid=8376124",
+      "source": "greenhouse",
+      "posted": "2026-11-11",
+      "key": "airbnb_marketing-crm-intern-experiences_paris_ad1689",
+      "first_seen": "2026-11-11",
+      "suspicious": false
+    },
+    {
+      "company": "Airbnb",
+      "title": "Sales Development Intern, Services, France",
+      "location": "Paris, France",
+      "url": "https://careers.airbnb.com/positions/8372325?gh_jid=8372325",
+      "source": "greenhouse",
+      "posted": "2026-11-11",
+      "key": "airbnb_sales-development-intern-services-france_paris_a243d0",
+      "first_seen": "2026-11-11",
+      "suspicious": false
+    },
+    {
+      "company": "Airbnb",
+      "title": "Sales Development Intern, Services, Italy",
+      "location": "Milan, Italy",
+      "url": "https://careers.airbnb.com/positions/8372095?gh_jid=8372095",
+      "source": "greenhouse",
+      "posted": "2026-11-11",
+      "key": "airbnb_sales-development-intern-services-italy_milan_7f7331",
+      "first_seen": "2026-11-11",
+      "suspicious": false
+    },
+    {
+      "company": "Airbnb",
+      "title": "Sales Development Intern, Services, Spain",
+      "location": "Barcelona, Spain",
+      "url": "https://careers.airbnb.com/positions/8372424?gh_jid=8372424",
+      "source": "greenhouse",
+      "posted": "2026-11-11",
+      "key": "airbnb_sales-development-intern-services-spain_barcelona_27de33",
+      "first_seen": "2026-11-11",
+      "suspicious": false
+    },
     {
       "company": "NVIDIA",
       "title": "GPU Compiler Intern",
@@ -181,12 +258,12 @@
     {
       "company": "HPE",
       "title": "Sales Intern",
-      "location": "Winnersh, United Kingdom",
-      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Winnersh-United-Kingdom/Sales-Intern_1216754",
+      "location": "London, London, United Kingdom",
+      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/London-London-United-Kingdom/Sales-Intern_1216754",
       "source": "workday",
-      "posted": "Posted Yesterday",
-      "key": "hpe_sales-intern_winnersh_6a35c4",
-      "first_seen": "2026-11-10",
+      "posted": "Posted Today",
+      "key": "hpe_sales-intern_london_f82d2f",
+      "first_seen": "2026-11-11",
       "suspicious": false
     },
     {
