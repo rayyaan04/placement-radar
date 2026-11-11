@@ -84,6 +84,15 @@ def main(argv=None):
     shutil.rmtree(postingsFolder, ignore_errors=True)
     for posting in recent:
         write_json(postingsFolder / f"{posting.key}.json", posting.to_dict())
+
+    # archive/ keeps every early careers posting ever fetched and is never cleared
+    # it builds the dataset for the ml evaluation
+    # uses postings not recent so roles first seen before today are saved too
+    archiveFolder = root / "data" / "archive"
+    for posting in postings:
+        write_json(archiveFolder / f"{posting.key}.json", posting.to_dict())
+
+    
     # the index lists every recent posting without its description
     # so it stays small enough for cowork to read in one go
     write_json(root / "data" / "new_postings_index.json", {
