@@ -1,24 +1,24 @@
 {
-  "generated": "2026-11-10T21:57:24+00:00",
+  "generated": "2026-11-11T01:25:45+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 678,
+      "found": 679,
       "kept": 1,
       "error": ""
     },
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 203,
+      "found": 202,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 469,
+      "found": 473,
       "kept": 4,
       "error": ""
     },
@@ -60,7 +60,7 @@
     {
       "company": "Sony",
       "platform": "greenhouse",
-      "found": 233,
+      "found": 232,
       "kept": 0,
       "error": ""
     },
@@ -74,7 +74,7 @@
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 831,
+      "found": 828,
       "kept": 1,
       "error": ""
     },
@@ -89,20 +89,20 @@
       "company": "Salesforce",
       "platform": "workday",
       "found": 46,
-      "kept": 4,
+      "kept": 5,
       "error": ""
     },
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 776,
-      "kept": 20,
+      "found": 779,
+      "kept": 21,
       "error": ""
     },
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 917,
+      "found": 920,
       "kept": 13,
       "error": ""
     },
@@ -116,7 +116,7 @@
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 443,
+      "found": 442,
       "kept": 9,
       "error": ""
     },
