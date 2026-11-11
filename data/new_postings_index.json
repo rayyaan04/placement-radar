@@ -1,7 +1,18 @@
 {
-  "generated": "2026-11-11T19:20:27+00:00",
+  "generated": "2026-11-11T22:29:08+00:00",
   "window_days": 2,
   "postings": [
+    {
+      "company": "Airbnb",
+      "title": "Advanced Analytics Intern",
+      "location": "United States",
+      "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
+      "source": "greenhouse",
+      "posted": "2026-11-11",
+      "key": "airbnb_advanced-analytics-intern_united-states_62be96",
+      "first_seen": "2026-11-11",
+      "suspicious": false
+    },
     {
       "company": "Airbnb",
       "title": "Communications Intern, France",
@@ -113,14 +124,25 @@
       "suspicious": false
     },
     {
-      "company": "Salesforce",
-      "title": "Engineering Intern",
-      "location": "United Kingdom - London",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom---London/Engineering-Intern_JR367683",
-      "source": "workday",
-      "posted": "Posted Yesterday",
-      "key": "salesforce_engineering-intern_united-kingdom-london_bc6e36",
-      "first_seen": "2026-11-10",
+      "company": "Stripe",
+      "title": "Software Engineer, Intern (Summer)",
+      "location": "Toronto",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+      "source": "greenhouse",
+      "posted": "2026-11-11",
+      "key": "stripe_software-engineer-intern-summer_toronto_ddddde",
+      "first_seen": "2026-11-11",
+      "suspicious": false
+    },
+    {
+      "company": "Stripe",
+      "title": "Software Engineer, Intern (Summer)",
+      "location": "San Francisco, Seattle, New York City",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+      "source": "greenhouse",
+      "posted": "2026-11-11",
+      "key": "stripe_software-engineer-intern-summer_san-francisco_9b9327",
+      "first_seen": "2026-11-11",
       "suspicious": false
     },
     {
