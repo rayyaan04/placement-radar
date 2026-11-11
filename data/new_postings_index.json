@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T10:17:58+00:00",
+  "generated": "2026-11-11T13:30:35+00:00",
   "window_days": 2,
   "postings": [
     {
@@ -21,6 +21,17 @@
       "source": "workday",
       "posted": "Posted Today",
       "key": "nvidia_developer-technology-engineer-intern_japan_f594d4",
+      "first_seen": "2026-11-11",
+      "suspicious": false
+    },
+    {
+      "company": "Salesforce",
+      "title": "Summer 2027 Intern - Software Engineer",
+      "location": "2 Locations",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "salesforce_summer-2027-intern-software-engineer_2-locations_a7d953",
       "first_seen": "2026-11-11",
       "suspicious": false
     },
@@ -69,6 +80,28 @@
       "suspicious": false
     },
     {
+      "company": "Snowflake",
+      "title": "Software Engineering Intern – Developer Platform (Warsaw, Summer 2027)",
+      "location": "PL-Warsaw-Lixa C",
+      "url": "https://jobs.ashbyhq.com/snowflake/a1d72623-8c75-41ce-8980-760ffcbc050c",
+      "source": "ashby",
+      "posted": "2026-11-11",
+      "key": "snowflake_software-engineering-intern-developer-platform-warsaw-summer_pl-warsaw-lixa-c_14f00e",
+      "first_seen": "2026-11-11",
+      "suspicious": false
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineering Intern – Data Ingestion & Platform Infrastructure (Warsaw, Summer 2027)",
+      "location": "PL-Warsaw-Lixa C",
+      "url": "https://jobs.ashbyhq.com/snowflake/aada80b0-a940-4441-89c0-08d929db38a7",
+      "source": "ashby",
+      "posted": "2026-11-11",
+      "key": "snowflake_software-engineering-intern-data-ingestion-platform-infrastr_pl-warsaw-lixa-c_defae5",
+      "first_seen": "2026-11-11",
+      "suspicious": false
+    },
+    {
       "company": "Intel",
       "title": "System Software Engineering - PhD Intern",
       "location": "US, Oregon, Hillsboro",
@@ -77,6 +110,28 @@
       "posted": "Posted 30+ Days Ago",
       "key": "intel_system-software-engineering-phd-intern_us_92d0f1",
       "first_seen": "2026-11-10",
+      "suspicious": false
+    },
+    {
+      "company": "Adobe",
+      "title": "Adobe Intern FY27",
+      "location": "Bangalore",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Adobe-Intern-FY27_R173562",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "adobe_adobe-intern-fy27_bangalore_2e13cd",
+      "first_seen": "2026-11-11",
+      "suspicious": false
+    },
+    {
+      "company": "Adobe",
+      "title": "2027 Intern - Solutions Consulting",
+      "location": "London",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/London/XMLNAME-2027-Intern---Solutions-Consulting_R173319",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "adobe_2027-intern-solutions-consulting_london_bfc582",
+      "first_seen": "2026-11-11",
       "suspicious": false
     },
     {
