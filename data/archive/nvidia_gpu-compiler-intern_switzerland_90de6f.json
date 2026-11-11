@@ -1,0 +1,12 @@
+{
+  "company": "NVIDIA",
+  "title": "GPU Compiler Intern",
+  "location": "Switzerland, Zurich",
+  "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GPU-Compiler-Intern_JR2029779",
+  "source": "workday",
+  "posted": "Posted Today",
+  "description": "As GPU Compiler Intern, you will develop compiler infrastructure for Python-based GPU programming, including CUTLASS CuTeDSL. You will work on DSL design, MLIR IR design, and compiler optimizations that translate expressive Python programs into high-performance NVIDIA GPU kernels.\nWhat you will be doing:\nDesign and implement Python DSL features for GPU kernel authoring, including metaprogramming and IR generation.\nDevelop MLIR dialects, transformation passes, and lowering pipelines that preserve the information needed for effective GPU optimization.\nDesign and optimize GPU kernels, exploring how IR design and compiler transformations affect generated code and performance.\nProfile, benchmark, and validate compiler and kernel improvements across representative workloads.\nWhat we need to see:\nCurrently pursuing or holding a Bachelor’s, Master’s, or Ph.D. degree in Computer Science, Computer Engineering, or a related technical discipline, or equivalent practical experience.\nProficiency in Python and C++, with strong debugging and software development skills.\nUnderstanding of how Python DSLs work, including metaprogramming, staged execution, and translation into compiler IR.\nExperience with MLIR, including IR construction, transformation passes, or lowering.\nPractical experience with GPU programming, preferably CUDA, and knowledge of GPU execution and memory models.\nFamiliarity with performance analysis and optimization, including profiling, memory access patterns, and parallel execution.\nExperience with CUTLASS, CuTeDSL, Triton, LLVM, or other GPU compiler and kernel development tools is a plus.",
+  "key": "nvidia_gpu-compiler-intern_switzerland_90de6f",
+  "first_seen": "2026-11-11",
+  "suspicious": false
+}

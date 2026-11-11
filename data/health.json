@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T22:29:08+00:00",
+  "generated": "2026-11-11T23:36:16+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -18,7 +18,7 @@
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 481,
+      "found": 482,
       "kept": 4,
       "error": ""
     },
@@ -74,7 +74,7 @@
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 821,
+      "found": 820,
       "kept": 1,
       "error": ""
     },
@@ -89,7 +89,7 @@
       "company": "Salesforce",
       "platform": "workday",
       "found": 46,
-      "kept": 2,
+      "kept": 1,
       "error": ""
     },
     {
@@ -102,7 +102,7 @@
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 912,
+      "found": 913,
       "kept": 13,
       "error": ""
     },

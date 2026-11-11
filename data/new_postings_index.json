@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T22:29:08+00:00",
+  "generated": "2026-11-11T23:36:16+00:00",
   "window_days": 2,
   "postings": [
     {
@@ -109,17 +109,6 @@
       "source": "workday",
       "posted": "Posted Yesterday",
       "key": "salesforce_fin-engineering-intern_ireland-dublin_58bd91",
-      "first_seen": "2026-11-10",
-      "suspicious": false
-    },
-    {
-      "company": "Salesforce",
-      "title": "Summer 2027 Intern - AI Research Incubator",
-      "location": "2 Locations",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655",
-      "source": "workday",
-      "posted": "Posted Yesterday",
-      "key": "salesforce_summer-2027-intern-ai-research-incubator_2-locations_dbd171",
       "first_seen": "2026-11-10",
       "suspicious": false
     },
