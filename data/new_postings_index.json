@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T16:10:04+00:00",
+  "generated": "2026-11-11T19:20:27+00:00",
   "window_days": 2,
   "postings": [
     {
@@ -10,17 +10,6 @@
       "source": "greenhouse",
       "posted": "2026-11-11",
       "key": "airbnb_communications-intern-france_paris_094a7a",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "Airbnb",
-      "title": "Communications Intern, Italy & SEE",
-      "location": "Milan, Italy",
-      "url": "https://careers.airbnb.com/positions/8375962?gh_jid=8375962",
-      "source": "greenhouse",
-      "posted": "2026-11-11",
-      "key": "airbnb_communications-intern-italy-see_milan_14879d",
       "first_seen": "2026-11-11",
       "suspicious": false
     },
@@ -103,17 +92,6 @@
     },
     {
       "company": "Salesforce",
-      "title": "Summer 2027 Intern - Software Engineer",
-      "location": "2 Locations",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-2027-Intern---Software-Engineer_JR337715",
-      "source": "workday",
-      "posted": "Posted Today",
-      "key": "salesforce_summer-2027-intern-software-engineer_2-locations_a7d953",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "Salesforce",
       "title": "Fin Engineering Intern",
       "location": "Ireland - Dublin",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Ireland---Dublin/Fin-Engineering-Intern_JR367686",
@@ -191,17 +169,6 @@
     },
     {
       "company": "Adobe",
-      "title": "Adobe Intern FY27",
-      "location": "Bangalore",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Adobe-Intern-FY27_R173562",
-      "source": "workday",
-      "posted": "Posted Today",
-      "key": "adobe_adobe-intern-fy27_bangalore_2e13cd",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "Adobe",
       "title": "2027 Intern - Solutions Consulting",
       "location": "London",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/London/XMLNAME-2027-Intern---Solutions-Consulting_R173319",
@@ -241,17 +208,6 @@
       "source": "workday",
       "posted": "Posted Yesterday",
       "key": "mastercard_global-markets-summer-internship-2027-product-management-int_dubai_f5967b",
-      "first_seen": "2026-11-10",
-      "suspicious": false
-    },
-    {
-      "company": "HPE",
-      "title": "External Intern",
-      "location": "Bengaluru, Karnātaka, India",
-      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/External-Intern_1215487-1",
-      "source": "workday",
-      "posted": "Posted Yesterday",
-      "key": "hpe_external-intern_bengaluru_bbe724",
       "first_seen": "2026-11-10",
       "suspicious": false
     },
