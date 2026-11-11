@@ -1,14 +1,36 @@
 {
-  "generated": "2026-11-11T07:36:18+00:00",
+  "generated": "2026-11-11T10:17:58+00:00",
   "window_days": 2,
   "postings": [
+    {
+      "company": "NVIDIA",
+      "title": "GPU Compiler Intern",
+      "location": "Switzerland, Zurich",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GPU-Compiler-Intern_JR2029779",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "nvidia_gpu-compiler-intern_switzerland_90de6f",
+      "first_seen": "2026-11-11",
+      "suspicious": false
+    },
+    {
+      "company": "NVIDIA",
+      "title": "Developer Technology Engineer Intern",
+      "location": "Japan, Tokyo",
+      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Japan-Tokyo/Developer-Technology-Engineer-Intern_JR2029575",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "nvidia_developer-technology-engineer-intern_japan_f594d4",
+      "first_seen": "2026-11-11",
+      "suspicious": false
+    },
     {
       "company": "Salesforce",
       "title": "Fin Engineering Intern",
       "location": "Ireland - Dublin",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Ireland---Dublin/Fin-Engineering-Intern_JR367686",
       "source": "workday",
-      "posted": "Posted Today",
+      "posted": "Posted Yesterday",
       "key": "salesforce_fin-engineering-intern_ireland-dublin_58bd91",
       "first_seen": "2026-11-10",
       "suspicious": false
@@ -19,7 +41,7 @@
       "location": "2 Locations",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Palo-Alto/Summer-2027-Intern---AI-Foundry-Incubation_JR366655",
       "source": "workday",
-      "posted": "Posted Today",
+      "posted": "Posted Yesterday",
       "key": "salesforce_summer-2027-intern-ai-research-incubator_2-locations_dbd171",
       "first_seen": "2026-11-10",
       "suspicious": false
@@ -30,20 +52,9 @@
       "location": "United Kingdom - London",
       "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/United-Kingdom---London/Engineering-Intern_JR367683",
       "source": "workday",
-      "posted": "Posted Today",
+      "posted": "Posted Yesterday",
       "key": "salesforce_engineering-intern_united-kingdom-london_bc6e36",
       "first_seen": "2026-11-10",
-      "suspicious": false
-    },
-    {
-      "company": "Salesforce",
-      "title": "Summer 2027 Intern - Applied AI Strategy & Research",
-      "location": "California - San Francisco",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Applied-AI-Strategy---Research_JR367516-1",
-      "source": "workday",
-      "posted": "Posted Today",
-      "key": "salesforce_summer-2027-intern-applied-ai-strategy-research_california-san-francisco_44b749",
-      "first_seen": "2026-11-11",
       "suspicious": false
     },
     {
@@ -74,7 +85,7 @@
       "location": "San Francisco",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-MBA-Intern---Integrated-GTM-Strategy_R173508",
       "source": "workday",
-      "posted": "Posted Today",
+      "posted": "Posted Yesterday",
       "key": "adobe_2027-mba-intern-integrated-gtm-strategy_san-francisco_2fb169",
       "first_seen": "2026-11-10",
       "suspicious": false
@@ -85,7 +96,7 @@
       "location": "2 Locations",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-SAMI-Intern---Adobe-Sales-Academy-BDR_R173029",
       "source": "workday",
-      "posted": "Posted Today",
+      "posted": "Posted Yesterday",
       "key": "adobe_2027-sami-intern-adobe-sales-academy-bdr_2-locations_7d982c",
       "first_seen": "2026-11-10",
       "suspicious": false
@@ -96,7 +107,7 @@
       "location": "Dubai, United Arab Emirates",
       "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dubai-United-Arab-Emirates/Global-Markets-Summer-Internship-2027---Product-Management-intern---Sales-Analyst-Intern---Dubai--UAE--UAE-Nationals-Preferred-_R-287598-2",
       "source": "workday",
-      "posted": "Posted Today",
+      "posted": "Posted Yesterday",
       "key": "mastercard_global-markets-summer-internship-2027-product-management-int_dubai_f5967b",
       "first_seen": "2026-11-10",
       "suspicious": false
@@ -107,7 +118,7 @@
       "location": "Bengaluru, Karnātaka, India",
       "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Bengaluru-Karntaka-India/External-Intern_1215487-1",
       "source": "workday",
-      "posted": "Posted Today",
+      "posted": "Posted Yesterday",
       "key": "hpe_external-intern_bengaluru_bbe724",
       "first_seen": "2026-11-10",
       "suspicious": false
@@ -118,7 +129,7 @@
       "location": "Winnersh, United Kingdom",
       "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Winnersh-United-Kingdom/Sales-Intern_1216754",
       "source": "workday",
-      "posted": "Posted Today",
+      "posted": "Posted Yesterday",
       "key": "hpe_sales-intern_winnersh_6a35c4",
       "first_seen": "2026-11-10",
       "suspicious": false
@@ -129,7 +140,7 @@
       "location": "Winnersh, Berkshire, United Kingdom",
       "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Interns_1216748",
       "source": "workday",
-      "posted": "Posted Today",
+      "posted": "Posted Yesterday",
       "key": "hpe_interns_winnersh_330272",
       "first_seen": "2026-11-10",
       "suspicious": false
@@ -140,7 +151,7 @@
       "location": "Winnersh, Berkshire, United Kingdom",
       "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Finance-Strategy---Planning-Intern_1206153",
       "source": "workday",
-      "posted": "Posted Today",
+      "posted": "Posted Yesterday",
       "key": "hpe_finance-strategy-planning-intern_winnersh_457e7e",
       "first_seen": "2026-11-10",
       "suspicious": false
