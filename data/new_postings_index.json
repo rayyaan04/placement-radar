@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T19:16:00+00:00",
+  "generated": "2026-11-12T22:03:29+00:00",
   "window_days": 2,
   "postings": [
     {
@@ -102,14 +102,14 @@
       "suspicious": false
     },
     {
-      "company": "Salesforce",
-      "title": "Summer Intern 2027 - Content Writer",
-      "location": "2 Locations",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-Intern-2027---Content-Writer_JR368157",
-      "source": "workday",
-      "posted": "Posted Today",
-      "key": "salesforce_summer-intern-2027-content-writer_2-locations_e1fb15",
-      "first_seen": "2026-11-12",
+      "company": "Stripe",
+      "title": "Software Engineer, Intern (Summer)",
+      "location": "San Francisco, Seattle, New York City",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+      "source": "greenhouse",
+      "posted": "2026-11-11",
+      "key": "stripe_software-engineer-intern-summer_san-francisco_9b9327",
+      "first_seen": "2026-11-11",
       "suspicious": false
     },
     {
@@ -120,17 +120,6 @@
       "source": "greenhouse",
       "posted": "2026-11-11",
       "key": "stripe_software-engineer-intern-summer_toronto_ddddde",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "Stripe",
-      "title": "Software Engineer, Intern (Summer)",
-      "location": "San Francisco, Seattle, New York City",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128745",
-      "source": "greenhouse",
-      "posted": "2026-11-11",
-      "key": "stripe_software-engineer-intern-summer_san-francisco_9b9327",
       "first_seen": "2026-11-11",
       "suspicious": false
     },
@@ -209,28 +198,6 @@
       "posted": "Posted Yesterday",
       "key": "hpe_sales-intern_london_f82d2f",
       "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "Autodesk",
-      "title": "Intern, Software Developer, Stagiaire en Développement Logiciel",
-      "location": "Montreal, QC, CAN",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD102151-3",
-      "source": "workday",
-      "posted": "Posted Today",
-      "key": "autodesk_intern-software-developer-stagiaire-en-d-veloppement-logicie_montreal_6d1886",
-      "first_seen": "2026-11-12",
-      "suspicious": false
-    },
-    {
-      "company": "Autodesk",
-      "title": "Stagiaire en Développement Cloud, Intern Cloud Developer",
-      "location": "Montreal, QC, CAN",
-      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD102147-2",
-      "source": "workday",
-      "posted": "Posted Today",
-      "key": "autodesk_stagiaire-en-d-veloppement-cloud-intern-cloud-developer_montreal_05a0d3",
-      "first_seen": "2026-11-12",
       "suspicious": false
     }
   ]
