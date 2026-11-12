@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T13:34:30+00:00",
+  "generated": "2026-11-12T16:21:29+00:00",
   "window_days": 2,
   "postings": [
     {
@@ -158,23 +158,12 @@
     },
     {
       "company": "Intel",
-      "title": "Research Scientist Intern - Graphics, ML",
-      "location": "Virtual US",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
-      "source": "workday",
-      "posted": "Posted 30+ Days Ago",
-      "key": "intel_research-scientist-intern-graphics-ml_virtual-us_2843fe",
-      "first_seen": "2026-11-12",
-      "suspicious": false
-    },
-    {
-      "company": "Adobe",
-      "title": "2027 Intern - Product Design Intern",
+      "title": "SLT Mechanical Design Intern",
       "location": "2 Locations",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/XMLNAME-2027-Intern---Product-Design-Intern_R172738",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/SLT-Mechanical-Design-Intern_JR0286720",
       "source": "workday",
       "posted": "Posted Today",
-      "key": "adobe_2027-intern-product-design-intern_2-locations_c59dba",
+      "key": "intel_slt-mechanical-design-intern_2-locations_daf41f",
       "first_seen": "2026-11-12",
       "suspicious": false
     },

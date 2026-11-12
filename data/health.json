@@ -1,17 +1,17 @@
 {
-  "generated": "2026-11-12T13:34:30+00:00",
+  "generated": "2026-11-12T16:21:29+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 672,
+      "found": 670,
       "kept": 1,
       "error": ""
     },
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 208,
+      "found": 214,
       "kept": 7,
       "error": ""
     },
@@ -32,7 +32,7 @@
     {
       "company": "IMC",
       "platform": "greenhouse",
-      "found": 156,
+      "found": 157,
       "kept": 19,
       "error": ""
     },
@@ -74,7 +74,7 @@
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 825,
+      "found": 823,
       "kept": 1,
       "error": ""
     },
@@ -88,49 +88,49 @@
     {
       "company": "Salesforce",
       "platform": "workday",
-      "found": 46,
+      "found": 48,
       "kept": 1,
       "error": ""
     },
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 785,
+      "found": 783,
       "kept": 21,
       "error": ""
     },
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 912,
+      "found": 910,
       "kept": 13,
       "error": ""
     },
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 388,
+      "found": 386,
       "kept": 6,
       "error": ""
     },
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 436,
+      "found": 437,
       "kept": 9,
       "error": ""
     },
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 380,
+      "found": 381,
       "kept": 3,
       "error": ""
     },
     {
       "company": "Monzo",
       "platform": "greenhouse",
-      "found": 62,
+      "found": 60,
       "kept": 0,
       "error": ""
     },
@@ -151,14 +151,14 @@
     {
       "company": "Wise",
       "platform": "greenhouse",
-      "found": 19,
+      "found": 18,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Snowflake",
       "platform": "ashby",
-      "found": 380,
+      "found": 379,
       "kept": 8,
       "error": ""
     },
@@ -173,7 +173,7 @@
       "company": "Adobe",
       "platform": "workday",
       "found": 45,
-      "kept": 31,
+      "kept": 30,
       "error": ""
     },
     {
@@ -187,7 +187,7 @@
       "company": "Mastercard",
       "platform": "workday",
       "found": 50,
-      "kept": 7,
+      "kept": 6,
       "error": ""
     },
     {
