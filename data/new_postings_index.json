@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T10:22:08+00:00",
+  "generated": "2026-11-12T13:34:30+00:00",
   "window_days": 2,
   "postings": [
     {
@@ -115,22 +115,22 @@
     {
       "company": "Stripe",
       "title": "Software Engineer, Intern (Summer)",
-      "location": "San Francisco, Seattle, New York City",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+      "location": "Toronto",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130805",
       "source": "greenhouse",
       "posted": "2026-11-11",
-      "key": "stripe_software-engineer-intern-summer_san-francisco_9b9327",
+      "key": "stripe_software-engineer-intern-summer_toronto_ddddde",
       "first_seen": "2026-11-11",
       "suspicious": false
     },
     {
       "company": "Stripe",
       "title": "Software Engineer, Intern (Summer)",
-      "location": "Toronto",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+      "location": "San Francisco, Seattle, New York City",
+      "url": "https://stripe.com/jobs/search?gh_jid=8128745",
       "source": "greenhouse",
       "posted": "2026-11-11",
-      "key": "stripe_software-engineer-intern-summer_toronto_ddddde",
+      "key": "stripe_software-engineer-intern-summer_san-francisco_9b9327",
       "first_seen": "2026-11-11",
       "suspicious": false
     },
