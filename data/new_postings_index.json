@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T16:21:29+00:00",
+  "generated": "2026-11-12T19:16:00+00:00",
   "window_days": 2,
   "postings": [
     {
@@ -169,6 +169,17 @@
     },
     {
       "company": "Adobe",
+      "title": "2027 Intern - Communications",
+      "location": "2 Locations",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Communications_R173413",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "adobe_2027-intern-communications_2-locations_06992e",
+      "first_seen": "2026-11-12",
+      "suspicious": false
+    },
+    {
+      "company": "Adobe",
       "title": "2027 Intern - Solutions Consulting",
       "location": "London",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/London/XMLNAME-2027-Intern---Solutions-Consulting_R173319",
@@ -198,6 +209,28 @@
       "posted": "Posted Yesterday",
       "key": "hpe_sales-intern_london_f82d2f",
       "first_seen": "2026-11-11",
+      "suspicious": false
+    },
+    {
+      "company": "Autodesk",
+      "title": "Intern, Software Developer, Stagiaire en Développement Logiciel",
+      "location": "Montreal, QC, CAN",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD102151-3",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "autodesk_intern-software-developer-stagiaire-en-d-veloppement-logicie_montreal_6d1886",
+      "first_seen": "2026-11-12",
+      "suspicious": false
+    },
+    {
+      "company": "Autodesk",
+      "title": "Stagiaire en Développement Cloud, Intern Cloud Developer",
+      "location": "Montreal, QC, CAN",
+      "url": "https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Montreal-QC-CAN/Stagiaire-en-Dveloppement-Cloud--Intern-Cloud-Developer_26WD102147-2",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "autodesk_stagiaire-en-d-veloppement-cloud-intern-cloud-developer_montreal_05a0d3",
+      "first_seen": "2026-11-12",
       "suspicious": false
     }
   ]

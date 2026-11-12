@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T16:21:29+00:00",
+  "generated": "2026-11-12T19:16:00+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -18,14 +18,14 @@
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 483,
+      "found": 481,
       "kept": 4,
       "error": ""
     },
     {
       "company": "Jane Street",
       "platform": "greenhouse",
-      "found": 218,
+      "found": 217,
       "kept": 0,
       "error": ""
     },
@@ -39,7 +39,7 @@
     {
       "company": "Optiver",
       "platform": "greenhouse",
-      "found": 151,
+      "found": 152,
       "kept": 16,
       "error": ""
     },
@@ -74,7 +74,7 @@
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 823,
+      "found": 827,
       "kept": 1,
       "error": ""
     },
@@ -88,42 +88,42 @@
     {
       "company": "Salesforce",
       "platform": "workday",
-      "found": 48,
+      "found": 47,
       "kept": 1,
       "error": ""
     },
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 783,
+      "found": 785,
       "kept": 21,
       "error": ""
     },
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 910,
+      "found": 906,
       "kept": 13,
       "error": ""
     },
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 386,
+      "found": 383,
       "kept": 6,
       "error": ""
     },
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 437,
+      "found": 435,
       "kept": 9,
       "error": ""
     },
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 381,
+      "found": 382,
       "kept": 3,
       "error": ""
     },
@@ -158,7 +158,7 @@
     {
       "company": "Snowflake",
       "platform": "ashby",
-      "found": 379,
+      "found": 377,
       "kept": 8,
       "error": ""
     },
@@ -173,7 +173,7 @@
       "company": "Adobe",
       "platform": "workday",
       "found": 45,
-      "kept": 30,
+      "kept": 31,
       "error": ""
     },
     {
@@ -186,7 +186,7 @@
     {
       "company": "Mastercard",
       "platform": "workday",
-      "found": 50,
+      "found": 49,
       "kept": 6,
       "error": ""
     },
@@ -200,8 +200,8 @@
     {
       "company": "Autodesk",
       "platform": "workday",
-      "found": 3,
-      "kept": 0,
+      "found": 5,
+      "kept": 2,
       "error": ""
     },
     {
