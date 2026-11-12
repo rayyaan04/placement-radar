@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T04:15:02+00:00",
+  "generated": "2026-11-12T07:40:03+00:00",
   "window_days": 2,
   "postings": [
     {
@@ -102,14 +102,14 @@
       "suspicious": false
     },
     {
-      "company": "Stripe",
-      "title": "Software Engineer, Intern (Summer)",
-      "location": "Toronto",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130805",
-      "source": "greenhouse",
-      "posted": "2026-11-11",
-      "key": "stripe_software-engineer-intern-summer_toronto_ddddde",
-      "first_seen": "2026-11-11",
+      "company": "Salesforce",
+      "title": "Summer Intern 2027 - Content Writer",
+      "location": "2 Locations",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/India---Bangalore/Summer-Intern-2027---Content-Writer_JR368157",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "salesforce_summer-intern-2027-content-writer_2-locations_e1fb15",
+      "first_seen": "2026-11-12",
       "suspicious": false
     },
     {
@@ -120,6 +120,17 @@
       "source": "greenhouse",
       "posted": "2026-11-11",
       "key": "stripe_software-engineer-intern-summer_san-francisco_9b9327",
+      "first_seen": "2026-11-11",
+      "suspicious": false
+    },
+    {
+      "company": "Stripe",
+      "title": "Software Engineer, Intern (Summer)",
+      "location": "Toronto",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+      "source": "greenhouse",
+      "posted": "2026-11-11",
+      "key": "stripe_software-engineer-intern-summer_toronto_ddddde",
       "first_seen": "2026-11-11",
       "suspicious": false
     },
@@ -142,6 +153,28 @@
       "source": "ashby",
       "posted": "2026-11-11",
       "key": "snowflake_software-engineering-intern-data-ingestion-platform-infrastr_pl-warsaw-lixa-c_defae5",
+      "first_seen": "2026-11-11",
+      "suspicious": false
+    },
+    {
+      "company": "Adobe",
+      "title": "2027 Intern - Product Design Intern",
+      "location": "2 Locations",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/XMLNAME-2027-Intern---Product-Design-Intern_R172738",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "adobe_2027-intern-product-design-intern_2-locations_c59dba",
+      "first_seen": "2026-11-12",
+      "suspicious": false
+    },
+    {
+      "company": "Adobe",
+      "title": "Adobe Intern FY27",
+      "location": "Bangalore",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Adobe-Intern-FY27_R173562",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "adobe_adobe-intern-fy27_bangalore_2e13cd",
       "first_seen": "2026-11-11",
       "suspicious": false
     },
