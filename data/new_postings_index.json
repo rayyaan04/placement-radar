@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T07:40:03+00:00",
+  "generated": "2026-11-12T10:22:08+00:00",
   "window_days": 2,
   "postings": [
     {
@@ -85,7 +85,7 @@
       "location": "Switzerland, Zurich",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GPU-Compiler-Intern_JR2029779",
       "source": "workday",
-      "posted": "Posted Today",
+      "posted": "Posted Yesterday",
       "key": "nvidia_gpu-compiler-intern_switzerland_90de6f",
       "first_seen": "2026-11-11",
       "suspicious": false
@@ -96,7 +96,7 @@
       "location": "Japan, Tokyo",
       "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Japan-Tokyo/Developer-Technology-Engineer-Intern_JR2029575",
       "source": "workday",
-      "posted": "Posted Today",
+      "posted": "Posted Yesterday",
       "key": "nvidia_developer-technology-engineer-intern_japan_f594d4",
       "first_seen": "2026-11-11",
       "suspicious": false
@@ -157,6 +157,17 @@
       "suspicious": false
     },
     {
+      "company": "Intel",
+      "title": "Research Scientist Intern - Graphics, ML",
+      "location": "Virtual US",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
+      "source": "workday",
+      "posted": "Posted 30+ Days Ago",
+      "key": "intel_research-scientist-intern-graphics-ml_virtual-us_2843fe",
+      "first_seen": "2026-11-12",
+      "suspicious": false
+    },
+    {
       "company": "Adobe",
       "title": "2027 Intern - Product Design Intern",
       "location": "2 Locations",
@@ -169,24 +180,24 @@
     },
     {
       "company": "Adobe",
-      "title": "Adobe Intern FY27",
-      "location": "Bangalore",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Bangalore/Adobe-Intern-FY27_R173562",
+      "title": "2027 Intern - Solutions Consulting",
+      "location": "London",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/London/XMLNAME-2027-Intern---Solutions-Consulting_R173319",
       "source": "workday",
-      "posted": "Posted Today",
-      "key": "adobe_adobe-intern-fy27_bangalore_2e13cd",
+      "posted": "Posted Yesterday",
+      "key": "adobe_2027-intern-solutions-consulting_london_bfc582",
       "first_seen": "2026-11-11",
       "suspicious": false
     },
     {
       "company": "Adobe",
       "title": "2027 Intern - Solutions Consulting",
-      "location": "London",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/London/XMLNAME-2027-Intern---Solutions-Consulting_R173319",
+      "location": "Paris",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Paris/XMLNAME-2027-Intern---Solutions-Consulting_R173322",
       "source": "workday",
       "posted": "Posted Today",
-      "key": "adobe_2027-intern-solutions-consulting_london_bfc582",
-      "first_seen": "2026-11-11",
+      "key": "adobe_2027-intern-solutions-consulting_paris_0390e7",
+      "first_seen": "2026-11-12",
       "suspicious": false
     },
     {
@@ -195,7 +206,7 @@
       "location": "London, London, United Kingdom",
       "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/London-London-United-Kingdom/Sales-Intern_1216754",
       "source": "workday",
-      "posted": "Posted Today",
+      "posted": "Posted Yesterday",
       "key": "hpe_sales-intern_london_f82d2f",
       "first_seen": "2026-11-11",
       "suspicious": false

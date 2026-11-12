@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T07:40:03+00:00",
+  "generated": "2026-11-12T10:22:08+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -18,7 +18,7 @@
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 482,
+      "found": 483,
       "kept": 4,
       "error": ""
     },
@@ -74,7 +74,7 @@
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 823,
+      "found": 822,
       "kept": 1,
       "error": ""
     },
@@ -102,14 +102,14 @@
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 912,
+      "found": 913,
       "kept": 13,
       "error": ""
     },
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 393,
+      "found": 391,
       "kept": 6,
       "error": ""
     },
@@ -130,7 +130,7 @@
     {
       "company": "Monzo",
       "platform": "greenhouse",
-      "found": 64,
+      "found": 63,
       "kept": 0,
       "error": ""
     },
@@ -158,7 +158,7 @@
     {
       "company": "Snowflake",
       "platform": "ashby",
-      "found": 379,
+      "found": 381,
       "kept": 8,
       "error": ""
     },
@@ -186,7 +186,7 @@
     {
       "company": "Mastercard",
       "platform": "workday",
-      "found": 49,
+      "found": 50,
       "kept": 7,
       "error": ""
     },
