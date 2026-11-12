@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T23:36:16+00:00",
+  "generated": "2026-11-12T01:34:18+00:00",
   "window_days": 2,
   "postings": [
     {
@@ -102,28 +102,6 @@
       "suspicious": false
     },
     {
-      "company": "Salesforce",
-      "title": "Fin Engineering Intern",
-      "location": "Ireland - Dublin",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Ireland---Dublin/Fin-Engineering-Intern_JR367686",
-      "source": "workday",
-      "posted": "Posted Yesterday",
-      "key": "salesforce_fin-engineering-intern_ireland-dublin_58bd91",
-      "first_seen": "2026-11-10",
-      "suspicious": false
-    },
-    {
-      "company": "Stripe",
-      "title": "Software Engineer, Intern (Summer)",
-      "location": "Toronto",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130805",
-      "source": "greenhouse",
-      "posted": "2026-11-11",
-      "key": "stripe_software-engineer-intern-summer_toronto_ddddde",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
       "company": "Stripe",
       "title": "Software Engineer, Intern (Summer)",
       "location": "San Francisco, Seattle, New York City",
@@ -135,14 +113,14 @@
       "suspicious": false
     },
     {
-      "company": "Snowflake",
-      "title": "Product Management Intern (Summer 2027)",
-      "location": "US-CA-Menlo Park",
-      "url": "https://jobs.ashbyhq.com/snowflake/322b82f6-4b18-4f86-ae34-007f55c4bdbf",
-      "source": "ashby",
-      "posted": "2026-11-10",
-      "key": "snowflake_product-management-intern-summer-2027_us-ca-menlo-park_7c27fa",
-      "first_seen": "2026-11-10",
+      "company": "Stripe",
+      "title": "Software Engineer, Intern (Summer)",
+      "location": "Toronto",
+      "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+      "source": "greenhouse",
+      "posted": "2026-11-11",
+      "key": "stripe_software-engineer-intern-summer_toronto_ddddde",
+      "first_seen": "2026-11-11",
       "suspicious": false
     },
     {
@@ -168,17 +146,6 @@
       "suspicious": false
     },
     {
-      "company": "Intel",
-      "title": "System Software Engineering - PhD Intern",
-      "location": "US, Oregon, Hillsboro",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457",
-      "source": "workday",
-      "posted": "Posted 30+ Days Ago",
-      "key": "intel_system-software-engineering-phd-intern_us_92d0f1",
-      "first_seen": "2026-11-10",
-      "suspicious": false
-    },
-    {
       "company": "Adobe",
       "title": "2027 Intern - Solutions Consulting",
       "location": "London",
@@ -190,39 +157,6 @@
       "suspicious": false
     },
     {
-      "company": "Adobe",
-      "title": "2027 MBA Intern - Integrated GTM Strategy",
-      "location": "San Francisco",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-MBA-Intern---Integrated-GTM-Strategy_R173508",
-      "source": "workday",
-      "posted": "Posted Yesterday",
-      "key": "adobe_2027-mba-intern-integrated-gtm-strategy_san-francisco_2fb169",
-      "first_seen": "2026-11-10",
-      "suspicious": false
-    },
-    {
-      "company": "Adobe",
-      "title": "2027 SAMI Intern – Adobe Sales Academy BDR",
-      "location": "2 Locations",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-SAMI-Intern---Adobe-Sales-Academy-BDR_R173029",
-      "source": "workday",
-      "posted": "Posted Yesterday",
-      "key": "adobe_2027-sami-intern-adobe-sales-academy-bdr_2-locations_7d982c",
-      "first_seen": "2026-11-10",
-      "suspicious": false
-    },
-    {
-      "company": "Mastercard",
-      "title": "Global Markets Summer Internship 2027 - Product Management intern & Sales Analyst Intern - Dubai, UAE (UAE Nationals Preferred)",
-      "location": "Dubai, United Arab Emirates",
-      "url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Dubai-United-Arab-Emirates/Global-Markets-Summer-Internship-2027---Product-Management-intern---Sales-Analyst-Intern---Dubai--UAE--UAE-Nationals-Preferred-_R-287598-2",
-      "source": "workday",
-      "posted": "Posted Yesterday",
-      "key": "mastercard_global-markets-summer-internship-2027-product-management-int_dubai_f5967b",
-      "first_seen": "2026-11-10",
-      "suspicious": false
-    },
-    {
       "company": "HPE",
       "title": "Sales Intern",
       "location": "London, London, United Kingdom",
@@ -231,28 +165,6 @@
       "posted": "Posted Today",
       "key": "hpe_sales-intern_london_f82d2f",
       "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "HPE",
-      "title": "Interns",
-      "location": "Winnersh, Berkshire, United Kingdom",
-      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Interns_1216748",
-      "source": "workday",
-      "posted": "Posted Yesterday",
-      "key": "hpe_interns_winnersh_330272",
-      "first_seen": "2026-11-10",
-      "suspicious": false
-    },
-    {
-      "company": "HPE",
-      "title": "Finance Strategy & Planning Intern",
-      "location": "Winnersh, Berkshire, United Kingdom",
-      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Finance-Strategy---Planning-Intern_1206153",
-      "source": "workday",
-      "posted": "Posted Yesterday",
-      "key": "hpe_finance-strategy-planning-intern_winnersh_457e7e",
-      "first_seen": "2026-11-10",
       "suspicious": false
     }
   ]

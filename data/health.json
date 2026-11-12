@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T23:36:16+00:00",
+  "generated": "2026-11-12T01:34:18+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -11,7 +11,7 @@
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 208,
+      "found": 207,
       "kept": 7,
       "error": ""
     },
@@ -89,7 +89,7 @@
       "company": "Salesforce",
       "platform": "workday",
       "found": 46,
-      "kept": 1,
+      "kept": 0,
       "error": ""
     },
     {
@@ -109,14 +109,14 @@
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 392,
+      "found": 391,
       "kept": 6,
       "error": ""
     },
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 439,
+      "found": 436,
       "kept": 9,
       "error": ""
     },
