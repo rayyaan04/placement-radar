@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T01:34:18+00:00",
+  "generated": "2026-11-12T04:15:02+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -74,7 +74,7 @@
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 820,
+      "found": 821,
       "kept": 1,
       "error": ""
     },
@@ -95,7 +95,7 @@
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 785,
+      "found": 786,
       "kept": 21,
       "error": ""
     },
@@ -109,7 +109,7 @@
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 391,
+      "found": 392,
       "kept": 6,
       "error": ""
     },
@@ -123,7 +123,7 @@
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 377,
+      "found": 381,
       "kept": 3,
       "error": ""
     },
