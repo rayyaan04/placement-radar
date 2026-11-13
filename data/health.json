@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-13T19:16:33+00:00",
+  "generated": "2026-11-13T22:01:52+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 671,
+      "found": 673,
       "kept": 1,
       "error": ""
     },
@@ -18,8 +18,8 @@
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 477,
-      "kept": 4,
+      "found": 481,
+      "kept": 5,
       "error": ""
     },
     {
@@ -60,7 +60,7 @@
     {
       "company": "Sony",
       "platform": "greenhouse",
-      "found": 231,
+      "found": 229,
       "kept": 0,
       "error": ""
     },
@@ -74,16 +74,16 @@
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 831,
+      "found": 837,
       "kept": 1,
       "error": ""
     },
     {
       "company": "NVIDIA",
       "platform": "workday",
-      "found": 80,
-      "kept": 44,
-      "error": ""
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 502 for https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
     },
     {
       "company": "Salesforce",
@@ -95,35 +95,35 @@
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 788,
+      "found": 786,
       "kept": 21,
       "error": ""
     },
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 905,
+      "found": 895,
       "kept": 13,
       "error": ""
     },
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 383,
+      "found": 384,
       "kept": 6,
       "error": ""
     },
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 430,
+      "found": 427,
       "kept": 9,
       "error": ""
     },
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 390,
+      "found": 391,
       "kept": 3,
       "error": ""
     },
@@ -151,29 +151,29 @@
     {
       "company": "Wise",
       "platform": "greenhouse",
-      "found": 18,
+      "found": 19,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Snowflake",
       "platform": "ashby",
-      "found": 376,
+      "found": 375,
       "kept": 7,
       "error": ""
     },
     {
       "company": "Intel",
       "platform": "workday",
-      "found": 80,
-      "kept": 44,
+      "found": 79,
+      "kept": 43,
       "error": ""
     },
     {
       "company": "Adobe",
       "platform": "workday",
       "found": 45,
-      "kept": 32,
+      "kept": 31,
       "error": ""
     },
     {
@@ -186,8 +186,8 @@
     {
       "company": "Mastercard",
       "platform": "workday",
-      "found": 48,
-      "kept": 5,
+      "found": 46,
+      "kept": 4,
       "error": ""
     },
     {

@@ -1,7 +1,18 @@
 {
-  "generated": "2026-11-13T19:16:33+00:00",
+  "generated": "2026-11-13T22:01:52+00:00",
   "window_days": 2,
   "postings": [
+    {
+      "company": "Cloudflare",
+      "title": "People Team: Software Engineer Intern (Winter 2027)",
+      "location": "Hybrid",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/7774167?gh_jid=7774167",
+      "source": "greenhouse",
+      "posted": "2026-11-13",
+      "key": "cloudflare_people-team-software-engineer-intern-winter-2027_hybrid_74d943",
+      "first_seen": "2026-11-13",
+      "suspicious": false
+    },
     {
       "company": "Salesforce",
       "title": "Solution Engineer Intern France - February 2027",
@@ -33,6 +44,61 @@
       "posted": "Posted Yesterday",
       "key": "intel_slt-mechanical-design-intern_2-locations_daf41f",
       "first_seen": "2026-11-12",
+      "suspicious": false
+    },
+    {
+      "company": "Intel",
+      "title": "Research Scientist Intern - Graphics, ML",
+      "location": "Virtual US",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
+      "source": "workday",
+      "posted": "Posted 30+ Days Ago",
+      "key": "intel_research-scientist-intern-graphics-ml_virtual-us_2843fe",
+      "first_seen": "2026-11-12",
+      "suspicious": false
+    },
+    {
+      "company": "Intel",
+      "title": "Design Verification Graduate Intern 2027",
+      "location": "2 Locations",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651",
+      "source": "workday",
+      "posted": "Posted 24 Days Ago",
+      "key": "intel_design-verification-graduate-intern-2027_2-locations_dbf497",
+      "first_seen": "2026-11-13",
+      "suspicious": false
+    },
+    {
+      "company": "Intel",
+      "title": "Intern Software QA Test Engineer",
+      "location": "Poland, Gdansk",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220",
+      "source": "workday",
+      "posted": "Posted 23 Days Ago",
+      "key": "intel_intern-software-qa-test-engineer_poland_416ff8",
+      "first_seen": "2026-11-13",
+      "suspicious": false
+    },
+    {
+      "company": "Intel",
+      "title": "Facilities Engineering Intern (Electrical Power)",
+      "location": "Malaysia, Kulim",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/Facilities-Engineering-Intern--Electrical-Power-_JR0288859",
+      "source": "workday",
+      "posted": "Posted 9 Days Ago",
+      "key": "intel_facilities-engineering-intern-electrical-power_malaysia_07f20c",
+      "first_seen": "2026-11-13",
+      "suspicious": false
+    },
+    {
+      "company": "Intel",
+      "title": "HR IT Software Engineer Intern",
+      "location": "Costa Rica, San Jose",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/HR-IT-Software-Engineer-Intern_JR0288637",
+      "source": "workday",
+      "posted": "Posted 4 Days Ago",
+      "key": "intel_hr-it-software-engineer-intern_costa-rica_62a1bd",
+      "first_seen": "2026-11-13",
       "suspicious": false
     },
     {
