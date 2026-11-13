@@ -1,7 +1,29 @@
 {
-  "generated": "2026-11-13T13:29:41+00:00",
+  "generated": "2026-11-13T16:06:48+00:00",
   "window_days": 2,
   "postings": [
+    {
+      "company": "Salesforce",
+      "title": "Solution Engineer Intern France - February 2027",
+      "location": "France - Paris",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/France---Paris/Solution-Engineer-Intern-France---February-2027_JR368365",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "salesforce_solution-engineer-intern-france-february-2027_france-paris_8218fd",
+      "first_seen": "2026-11-13",
+      "suspicious": false
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineer Intern - Zurich (2027)",
+      "location": "CH-Zurich-Observe",
+      "url": "https://jobs.ashbyhq.com/snowflake/26a0ae52-97a6-4a46-9216-3c382570d89b",
+      "source": "ashby",
+      "posted": "2026-11-13",
+      "key": "snowflake_software-engineer-intern-zurich-2027_ch-zurich-observe_44af0e",
+      "first_seen": "2026-11-13",
+      "suspicious": false
+    },
     {
       "company": "Intel",
       "title": "SLT Mechanical Design Intern",
@@ -11,6 +33,39 @@
       "posted": "Posted Yesterday",
       "key": "intel_slt-mechanical-design-intern_2-locations_daf41f",
       "first_seen": "2026-11-12",
+      "suspicious": false
+    },
+    {
+      "company": "Intel",
+      "title": "Power Integrity Intern Worker",
+      "location": "Costa Rica, San Jose",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Power-Integrity-Intern-Worker_JR0289177",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "intel_power-integrity-intern-worker_costa-rica_cb40a4",
+      "first_seen": "2026-11-13",
+      "suspicious": false
+    },
+    {
+      "company": "Intel",
+      "title": "PnP Lab Eng. Intern Worker",
+      "location": "Costa Rica, San Jose",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/PnP-Lab-Eng-Intern-Worker_JR0289168",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "intel_pnp-lab-eng-intern-worker_costa-rica_d8a199",
+      "first_seen": "2026-11-13",
+      "suspicious": false
+    },
+    {
+      "company": "Intel",
+      "title": "Power Integrity Intern Worker Engineer",
+      "location": "Costa Rica, San Jose",
+      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Power-Integrity-Intern-Worker-Engineer_JR0289171",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "intel_power-integrity-intern-worker-engineer_costa-rica_e6f149",
+      "first_seen": "2026-11-13",
       "suspicious": false
     },
     {

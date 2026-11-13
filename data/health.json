@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-13T13:29:41+00:00",
+  "generated": "2026-11-13T16:06:48+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 673,
+      "found": 671,
       "kept": 1,
       "error": ""
     },
@@ -18,7 +18,7 @@
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 480,
+      "found": 479,
       "kept": 4,
       "error": ""
     },
@@ -32,7 +32,7 @@
     {
       "company": "IMC",
       "platform": "greenhouse",
-      "found": 158,
+      "found": 156,
       "kept": 19,
       "error": ""
     },
@@ -67,14 +67,14 @@
     {
       "company": "Spotify",
       "platform": "lever",
-      "found": 85,
+      "found": 86,
       "kept": 0,
       "error": ""
     },
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 833,
+      "found": 832,
       "kept": 1,
       "error": ""
     },
@@ -89,7 +89,7 @@
       "company": "Salesforce",
       "platform": "workday",
       "found": 47,
-      "kept": 1,
+      "kept": 2,
       "error": ""
     },
     {
@@ -102,7 +102,7 @@
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 908,
+      "found": 909,
       "kept": 13,
       "error": ""
     },
@@ -137,7 +137,7 @@
     {
       "company": "Ocado Technology",
       "platform": "greenhouse",
-      "found": 58,
+      "found": 60,
       "kept": 0,
       "error": ""
     },
@@ -158,15 +158,15 @@
     {
       "company": "Snowflake",
       "platform": "ashby",
-      "found": 378,
+      "found": 375,
       "kept": 7,
       "error": ""
     },
     {
       "company": "Intel",
       "platform": "workday",
-      "found": 80,
-      "kept": 42,
+      "found": 79,
+      "kept": 44,
       "error": ""
     },
     {
@@ -193,7 +193,7 @@
     {
       "company": "HPE",
       "platform": "workday",
-      "found": 72,
+      "found": 71,
       "kept": 49,
       "error": ""
     },
