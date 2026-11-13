@@ -1,150 +1,7 @@
 {
-  "generated": "2026-11-12T22:03:29+00:00",
+  "generated": "2026-11-13T01:28:47+00:00",
   "window_days": 2,
   "postings": [
-    {
-      "company": "Airbnb",
-      "title": "Advanced Analytics Intern",
-      "location": "United States",
-      "url": "https://careers.airbnb.com/positions/8380007?gh_jid=8380007",
-      "source": "greenhouse",
-      "posted": "2026-11-11",
-      "key": "airbnb_advanced-analytics-intern_united-states_62be96",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "Airbnb",
-      "title": "Communications Intern, France",
-      "location": "Paris, France",
-      "url": "https://careers.airbnb.com/positions/8376005?gh_jid=8376005",
-      "source": "greenhouse",
-      "posted": "2026-11-11",
-      "key": "airbnb_communications-intern-france_paris_094a7a",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "Airbnb",
-      "title": "Market Associate Intern, Experiences",
-      "location": "Paris, France",
-      "url": "https://careers.airbnb.com/positions/8376087?gh_jid=8376087",
-      "source": "greenhouse",
-      "posted": "2026-11-11",
-      "key": "airbnb_market-associate-intern-experiences_paris_45b5b5",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "Airbnb",
-      "title": "Marketing & CRM Intern, Experiences",
-      "location": "Paris, France",
-      "url": "https://careers.airbnb.com/positions/8376124?gh_jid=8376124",
-      "source": "greenhouse",
-      "posted": "2026-11-11",
-      "key": "airbnb_marketing-crm-intern-experiences_paris_ad1689",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "Airbnb",
-      "title": "Sales Development Intern, Services, France",
-      "location": "Paris, France",
-      "url": "https://careers.airbnb.com/positions/8372325?gh_jid=8372325",
-      "source": "greenhouse",
-      "posted": "2026-11-11",
-      "key": "airbnb_sales-development-intern-services-france_paris_a243d0",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "Airbnb",
-      "title": "Sales Development Intern, Services, Italy",
-      "location": "Milan, Italy",
-      "url": "https://careers.airbnb.com/positions/8372095?gh_jid=8372095",
-      "source": "greenhouse",
-      "posted": "2026-11-11",
-      "key": "airbnb_sales-development-intern-services-italy_milan_7f7331",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "Airbnb",
-      "title": "Sales Development Intern, Services, Spain",
-      "location": "Barcelona, Spain",
-      "url": "https://careers.airbnb.com/positions/8372424?gh_jid=8372424",
-      "source": "greenhouse",
-      "posted": "2026-11-11",
-      "key": "airbnb_sales-development-intern-services-spain_barcelona_27de33",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "NVIDIA",
-      "title": "GPU Compiler Intern",
-      "location": "Switzerland, Zurich",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Switzerland-Zurich/GPU-Compiler-Intern_JR2029779",
-      "source": "workday",
-      "posted": "Posted Yesterday",
-      "key": "nvidia_gpu-compiler-intern_switzerland_90de6f",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "NVIDIA",
-      "title": "Developer Technology Engineer Intern",
-      "location": "Japan, Tokyo",
-      "url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Japan-Tokyo/Developer-Technology-Engineer-Intern_JR2029575",
-      "source": "workday",
-      "posted": "Posted Yesterday",
-      "key": "nvidia_developer-technology-engineer-intern_japan_f594d4",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "Stripe",
-      "title": "Software Engineer, Intern (Summer)",
-      "location": "San Francisco, Seattle, New York City",
-      "url": "https://stripe.com/jobs/search?gh_jid=8128745",
-      "source": "greenhouse",
-      "posted": "2026-11-11",
-      "key": "stripe_software-engineer-intern-summer_san-francisco_9b9327",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "Stripe",
-      "title": "Software Engineer, Intern (Summer)",
-      "location": "Toronto",
-      "url": "https://stripe.com/jobs/search?gh_jid=8130805",
-      "source": "greenhouse",
-      "posted": "2026-11-11",
-      "key": "stripe_software-engineer-intern-summer_toronto_ddddde",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "Snowflake",
-      "title": "Software Engineering Intern – Developer Platform (Warsaw, Summer 2027)",
-      "location": "PL-Warsaw-Lixa C",
-      "url": "https://jobs.ashbyhq.com/snowflake/a1d72623-8c75-41ce-8980-760ffcbc050c",
-      "source": "ashby",
-      "posted": "2026-11-11",
-      "key": "snowflake_software-engineering-intern-developer-platform-warsaw-summer_pl-warsaw-lixa-c_14f00e",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "Snowflake",
-      "title": "Software Engineering Intern – Data Ingestion & Platform Infrastructure (Warsaw, Summer 2027)",
-      "location": "PL-Warsaw-Lixa C",
-      "url": "https://jobs.ashbyhq.com/snowflake/aada80b0-a940-4441-89c0-08d929db38a7",
-      "source": "ashby",
-      "posted": "2026-11-11",
-      "key": "snowflake_software-engineering-intern-data-ingestion-platform-infrastr_pl-warsaw-lixa-c_defae5",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
     {
       "company": "Intel",
       "title": "SLT Mechanical Design Intern",
@@ -170,34 +27,12 @@
     {
       "company": "Adobe",
       "title": "2027 Intern - Solutions Consulting",
-      "location": "London",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/London/XMLNAME-2027-Intern---Solutions-Consulting_R173319",
-      "source": "workday",
-      "posted": "Posted Yesterday",
-      "key": "adobe_2027-intern-solutions-consulting_london_bfc582",
-      "first_seen": "2026-11-11",
-      "suspicious": false
-    },
-    {
-      "company": "Adobe",
-      "title": "2027 Intern - Solutions Consulting",
       "location": "Paris",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Paris/XMLNAME-2027-Intern---Solutions-Consulting_R173322",
       "source": "workday",
       "posted": "Posted Today",
       "key": "adobe_2027-intern-solutions-consulting_paris_0390e7",
       "first_seen": "2026-11-12",
-      "suspicious": false
-    },
-    {
-      "company": "HPE",
-      "title": "Sales Intern",
-      "location": "London, London, United Kingdom",
-      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/London-London-United-Kingdom/Sales-Intern_1216754",
-      "source": "workday",
-      "posted": "Posted Yesterday",
-      "key": "hpe_sales-intern_london_f82d2f",
-      "first_seen": "2026-11-11",
       "suspicious": false
     }
   ]
