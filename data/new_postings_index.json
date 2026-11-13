@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T07:38:32+00:00",
+  "generated": "2026-11-13T10:18:23+00:00",
   "window_days": 2,
   "postings": [
     {
@@ -8,7 +8,7 @@
       "location": "2 Locations",
       "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/SLT-Mechanical-Design-Intern_JR0286720",
       "source": "workday",
-      "posted": "Posted Today",
+      "posted": "Posted Yesterday",
       "key": "intel_slt-mechanical-design-intern_2-locations_daf41f",
       "first_seen": "2026-11-12",
       "suspicious": false
@@ -19,9 +19,20 @@
       "location": "2 Locations",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Communications_R173413",
       "source": "workday",
-      "posted": "Posted Today",
+      "posted": "Posted Yesterday",
       "key": "adobe_2027-intern-communications_2-locations_06992e",
       "first_seen": "2026-11-12",
+      "suspicious": false
+    },
+    {
+      "company": "Adobe",
+      "title": "2027 Intern - Research Scientist",
+      "location": "London",
+      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "adobe_2027-intern-research-scientist_london_08ed14",
+      "first_seen": "2026-11-13",
       "suspicious": false
     },
     {
@@ -30,9 +41,20 @@
       "location": "Paris",
       "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Paris/XMLNAME-2027-Intern---Solutions-Consulting_R173322",
       "source": "workday",
-      "posted": "Posted Today",
+      "posted": "Posted Yesterday",
       "key": "adobe_2027-intern-solutions-consulting_paris_0390e7",
       "first_seen": "2026-11-12",
+      "suspicious": false
+    },
+    {
+      "company": "HPE",
+      "title": "Sales Programmes Intern - High Performance Computing & AI",
+      "location": "Winnersh, Berkshire, United Kingdom",
+      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Sales-Programmes-Intern_1216776",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "hpe_sales-programmes-intern-high-performance-computing-ai_winnersh_8c4637",
+      "first_seen": "2026-11-13",
       "suspicious": false
     }
   ]
