@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T16:06:48+00:00",
+  "generated": "2026-11-13T19:16:33+00:00",
   "window_days": 2,
   "postings": [
     {
@@ -33,17 +33,6 @@
       "posted": "Posted Yesterday",
       "key": "intel_slt-mechanical-design-intern_2-locations_daf41f",
       "first_seen": "2026-11-12",
-      "suspicious": false
-    },
-    {
-      "company": "Intel",
-      "title": "Power Integrity Intern Worker",
-      "location": "Costa Rica, San Jose",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Power-Integrity-Intern-Worker_JR0289177",
-      "source": "workday",
-      "posted": "Posted Today",
-      "key": "intel_power-integrity-intern-worker_costa-rica_cb40a4",
-      "first_seen": "2026-11-13",
       "suspicious": false
     },
     {
@@ -109,6 +98,17 @@
       "source": "workday",
       "posted": "Posted Today",
       "key": "hpe_sales-programmes-intern-high-performance-computing-ai_winnersh_8c4637",
+      "first_seen": "2026-11-13",
+      "suspicious": false
+    },
+    {
+      "company": "HPE",
+      "title": "Strategy & Planning Intern",
+      "location": "Winnersh, Berkshire, United Kingdom",
+      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Strategy---Planning-Intern_1206143",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "hpe_strategy-planning-intern_winnersh_e8519b",
       "first_seen": "2026-11-13",
       "suspicious": false
     }
