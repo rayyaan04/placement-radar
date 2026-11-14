@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T22:01:52+00:00",
+  "generated": "2026-11-14T01:25:07+00:00",
   "window_days": 2,
   "postings": [
     {
@@ -11,6 +11,17 @@
       "posted": "2026-11-13",
       "key": "cloudflare_people-team-software-engineer-intern-winter-2027_hybrid_74d943",
       "first_seen": "2026-11-13",
+      "suspicious": false
+    },
+    {
+      "company": "Salesforce",
+      "title": "Summer 2027 Intern - Sales Immersion, Financial Services",
+      "location": "New York - New York",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Sales-Immersion--Financial-Services_JR368293-1",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "salesforce_summer-2027-intern-sales-immersion-financial-services_new-york-new-york_b05774",
+      "first_seen": "2026-11-14",
       "suspicious": false
     },
     {
@@ -32,149 +43,6 @@
       "source": "ashby",
       "posted": "2026-11-13",
       "key": "snowflake_software-engineer-intern-zurich-2027_ch-zurich-observe_44af0e",
-      "first_seen": "2026-11-13",
-      "suspicious": false
-    },
-    {
-      "company": "Intel",
-      "title": "SLT Mechanical Design Intern",
-      "location": "2 Locations",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/SLT-Mechanical-Design-Intern_JR0286720",
-      "source": "workday",
-      "posted": "Posted Yesterday",
-      "key": "intel_slt-mechanical-design-intern_2-locations_daf41f",
-      "first_seen": "2026-11-12",
-      "suspicious": false
-    },
-    {
-      "company": "Intel",
-      "title": "Research Scientist Intern - Graphics, ML",
-      "location": "Virtual US",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
-      "source": "workday",
-      "posted": "Posted 30+ Days Ago",
-      "key": "intel_research-scientist-intern-graphics-ml_virtual-us_2843fe",
-      "first_seen": "2026-11-12",
-      "suspicious": false
-    },
-    {
-      "company": "Intel",
-      "title": "Design Verification Graduate Intern 2027",
-      "location": "2 Locations",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Colorado-Fort-Collins/Design-Verification-Graduate-Intern-2027_JR0287651",
-      "source": "workday",
-      "posted": "Posted 24 Days Ago",
-      "key": "intel_design-verification-graduate-intern-2027_2-locations_dbf497",
-      "first_seen": "2026-11-13",
-      "suspicious": false
-    },
-    {
-      "company": "Intel",
-      "title": "Intern Software QA Test Engineer",
-      "location": "Poland, Gdansk",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Poland-Gdansk/Intern-Software-QA-Test-Engineer_JR0288220",
-      "source": "workday",
-      "posted": "Posted 23 Days Ago",
-      "key": "intel_intern-software-qa-test-engineer_poland_416ff8",
-      "first_seen": "2026-11-13",
-      "suspicious": false
-    },
-    {
-      "company": "Intel",
-      "title": "Facilities Engineering Intern (Electrical Power)",
-      "location": "Malaysia, Kulim",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Malaysia-Kulim/Facilities-Engineering-Intern--Electrical-Power-_JR0288859",
-      "source": "workday",
-      "posted": "Posted 9 Days Ago",
-      "key": "intel_facilities-engineering-intern-electrical-power_malaysia_07f20c",
-      "first_seen": "2026-11-13",
-      "suspicious": false
-    },
-    {
-      "company": "Intel",
-      "title": "HR IT Software Engineer Intern",
-      "location": "Costa Rica, San Jose",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/HR-IT-Software-Engineer-Intern_JR0288637",
-      "source": "workday",
-      "posted": "Posted 4 Days Ago",
-      "key": "intel_hr-it-software-engineer-intern_costa-rica_62a1bd",
-      "first_seen": "2026-11-13",
-      "suspicious": false
-    },
-    {
-      "company": "Intel",
-      "title": "PnP Lab Eng. Intern Worker",
-      "location": "Costa Rica, San Jose",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/PnP-Lab-Eng-Intern-Worker_JR0289168",
-      "source": "workday",
-      "posted": "Posted Today",
-      "key": "intel_pnp-lab-eng-intern-worker_costa-rica_d8a199",
-      "first_seen": "2026-11-13",
-      "suspicious": false
-    },
-    {
-      "company": "Intel",
-      "title": "Power Integrity Intern Worker Engineer",
-      "location": "Costa Rica, San Jose",
-      "url": "https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/Power-Integrity-Intern-Worker-Engineer_JR0289171",
-      "source": "workday",
-      "posted": "Posted Today",
-      "key": "intel_power-integrity-intern-worker-engineer_costa-rica_e6f149",
-      "first_seen": "2026-11-13",
-      "suspicious": false
-    },
-    {
-      "company": "Adobe",
-      "title": "2027 Intern - Communications",
-      "location": "2 Locations",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/XMLNAME-2027-Intern---Communications_R173413",
-      "source": "workday",
-      "posted": "Posted Yesterday",
-      "key": "adobe_2027-intern-communications_2-locations_06992e",
-      "first_seen": "2026-11-12",
-      "suspicious": false
-    },
-    {
-      "company": "Adobe",
-      "title": "2027 Intern - Research Scientist",
-      "location": "London",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/London/XMLNAME-2027-Intern---Research-Scientist_R173345",
-      "source": "workday",
-      "posted": "Posted Today",
-      "key": "adobe_2027-intern-research-scientist_london_08ed14",
-      "first_seen": "2026-11-13",
-      "suspicious": false
-    },
-    {
-      "company": "Adobe",
-      "title": "2027 Intern - Solutions Consulting",
-      "location": "Paris",
-      "url": "https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/Paris/XMLNAME-2027-Intern---Solutions-Consulting_R173322",
-      "source": "workday",
-      "posted": "Posted Yesterday",
-      "key": "adobe_2027-intern-solutions-consulting_paris_0390e7",
-      "first_seen": "2026-11-12",
-      "suspicious": false
-    },
-    {
-      "company": "HPE",
-      "title": "Sales Programmes Intern - High Performance Computing & AI",
-      "location": "Winnersh, Berkshire, United Kingdom",
-      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Sales-Programmes-Intern_1216776",
-      "source": "workday",
-      "posted": "Posted Today",
-      "key": "hpe_sales-programmes-intern-high-performance-computing-ai_winnersh_8c4637",
-      "first_seen": "2026-11-13",
-      "suspicious": false
-    },
-    {
-      "company": "HPE",
-      "title": "Strategy & Planning Intern",
-      "location": "Winnersh, Berkshire, United Kingdom",
-      "url": "https://hpe.wd5.myworkdayjobs.com/en-US/Jobsathpe/job/Winnersh-Berkshire-United-Kingdom/Strategy---Planning-Intern_1206143",
-      "source": "workday",
-      "posted": "Posted Today",
-      "key": "hpe_strategy-planning-intern_winnersh_e8519b",
       "first_seen": "2026-11-13",
       "suspicious": false
     }

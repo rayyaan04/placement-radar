@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-13T22:01:52+00:00",
+  "generated": "2026-11-14T01:25:07+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 673,
+      "found": 668,
       "kept": 1,
       "error": ""
     },
@@ -18,7 +18,7 @@
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 481,
+      "found": 479,
       "kept": 5,
       "error": ""
     },
@@ -39,14 +39,14 @@
     {
       "company": "Optiver",
       "platform": "greenhouse",
-      "found": 151,
+      "found": 152,
       "kept": 16,
       "error": ""
     },
     {
       "company": "Hudson River Trading",
       "platform": "greenhouse",
-      "found": 82,
+      "found": 83,
       "kept": 5,
       "error": ""
     },
@@ -60,7 +60,7 @@
     {
       "company": "Sony",
       "platform": "greenhouse",
-      "found": 229,
+      "found": 228,
       "kept": 0,
       "error": ""
     },
@@ -74,7 +74,7 @@
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 837,
+      "found": 836,
       "kept": 1,
       "error": ""
     },
@@ -83,13 +83,13 @@
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 502 for https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+      "error": "FetchError: http 521 for https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
     },
     {
       "company": "Salesforce",
       "platform": "workday",
       "found": 48,
-      "kept": 1,
+      "kept": 2,
       "error": ""
     },
     {
@@ -102,7 +102,7 @@
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 895,
+      "found": 896,
       "kept": 13,
       "error": ""
     },
@@ -116,7 +116,7 @@
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 427,
+      "found": 428,
       "kept": 9,
       "error": ""
     },
@@ -144,7 +144,7 @@
     {
       "company": "Rockstar Games",
       "platform": "greenhouse",
-      "found": 16,
+      "found": 15,
       "kept": 0,
       "error": ""
     },
@@ -158,58 +158,58 @@
     {
       "company": "Snowflake",
       "platform": "ashby",
-      "found": 375,
+      "found": 376,
       "kept": 7,
       "error": ""
     },
     {
       "company": "Intel",
       "platform": "workday",
-      "found": 79,
-      "kept": 43,
-      "error": ""
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 521 for https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
     },
     {
       "company": "Adobe",
       "platform": "workday",
-      "found": 45,
-      "kept": 31,
-      "error": ""
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 521 for https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs"
     },
     {
       "company": "PayPal",
       "platform": "workday",
-      "found": 43,
-      "kept": 7,
-      "error": ""
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 521 for https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs"
     },
     {
       "company": "Mastercard",
       "platform": "workday",
-      "found": 46,
-      "kept": 4,
-      "error": ""
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 521 for https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
     },
     {
       "company": "HPE",
       "platform": "workday",
-      "found": 72,
-      "kept": 50,
-      "error": ""
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 521 for https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/jobs"
     },
     {
       "company": "Autodesk",
       "platform": "workday",
-      "found": 3,
+      "found": 0,
       "kept": 0,
-      "error": ""
+      "error": "FetchError: http 521 for https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs"
     },
     {
       "company": "eBay",
       "platform": "workday",
-      "found": 44,
-      "kept": 1,
-      "error": ""
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 521 for https://ebay.wd5.myworkdayjobs.com/wday/cxs/ebay/apply/jobs"
     }
   ]
 }
