@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T01:25:07+00:00",
+  "generated": "2026-11-14T04:11:02+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -11,7 +11,7 @@
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 215,
+      "found": 214,
       "kept": 6,
       "error": ""
     },
@@ -74,7 +74,7 @@
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 836,
+      "found": 838,
       "kept": 1,
       "error": ""
     },
