@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T07:26:22+00:00",
+  "generated": "2026-11-14T10:02:32+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -83,7 +83,7 @@
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 521 for https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
     },
     {
       "company": "Salesforce",
@@ -167,49 +167,49 @@
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 521 for https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
+      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
     },
     {
       "company": "Adobe",
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 521 for https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs"
+      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
     },
     {
       "company": "PayPal",
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 521 for https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs"
+      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
     },
     {
       "company": "Mastercard",
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 521 for https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
+      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
     },
     {
       "company": "HPE",
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 521 for https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/jobs"
+      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
     },
     {
       "company": "Autodesk",
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 521 for https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs"
+      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
     },
     {
       "company": "eBay",
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 521 for https://ebay.wd5.myworkdayjobs.com/wday/cxs/ebay/apply/jobs"
+      "error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
     }
   ]
 }
