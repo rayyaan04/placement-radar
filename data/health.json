@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-15T01:28:52+00:00",
+  "generated": "2026-11-15T04:12:54+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 670,
+      "found": 669,
       "kept": 1,
       "error": ""
     },
@@ -95,7 +95,7 @@
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 786,
+      "found": 785,
       "kept": 21,
       "error": ""
     },
