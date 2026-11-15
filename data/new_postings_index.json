@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T10:03:34+00:00",
+  "generated": "2026-11-15T13:15:45+00:00",
   "window_days": 2,
   "postings": [
     {
@@ -11,6 +11,17 @@
       "posted": "Posted 2 Days Ago",
       "key": "salesforce_summer-2027-intern-sales-immersion-financial-services_new-york-new-york_b05774",
       "first_seen": "2026-11-14",
+      "suspicious": false
+    },
+    {
+      "company": "PayPal",
+      "title": "Software Engineer Intern",
+      "location": "Tel Aviv, Tel Aviv District, Israel",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Tel-Aviv-Tel-Aviv-District-Israel/Software-Engineer-Intern_R0138730",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "paypal_software-engineer-intern_tel-aviv_e86119",
+      "first_seen": "2026-11-15",
       "suspicious": false
     }
   ]
