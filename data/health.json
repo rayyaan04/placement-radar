@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-15T04:12:54+00:00",
+  "generated": "2026-11-15T07:27:26+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -74,7 +74,7 @@
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 839,
+      "found": 840,
       "kept": 1,
       "error": ""
     },
@@ -102,7 +102,7 @@
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 896,
+      "found": 895,
       "kept": 13,
       "error": ""
     },
