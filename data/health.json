@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-14T21:53:45+00:00",
+  "generated": "2026-11-15T01:28:52+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -116,7 +116,7 @@
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 427,
+      "found": 428,
       "kept": 9,
       "error": ""
     },
