@@ -93,18 +93,25 @@ def main(argv=None):
         write_json(archiveFolder / f"{posting.key}.json", posting.to_dict())
 
     
-    # the index lists every recent posting without its description
-    # so it stays small enough for cowork to read in one go
-    write_json(root / "data" / "new_postings_index.json", {
+    # the index lists every recent posting without its description, so its small enough for cowork to read
+    indexData = {
         "generated": now.isoformat(timespec="seconds"),
         "window_days": 2,
         "postings": [
             {field: value for field, value in posting.to_dict().items() if field != "description"}
             for posting in recent
         ],
-    })
+    }
     # health.json says which sources worked, cowork uses it to know what to skip
-    write_json(root/"data"/"health.json", {"generated": now.isoformat(timespec="seconds"), "sources": health})
+    healthData = {"generated": now.isoformat(timespec="seconds"), "sources": health}
+    write_json(root / "data" / "new_postings_index.json", indexData)
+    write_json(root / "data" / "health.json", healthData)
+    # dated copies give the daily sweep a brand new web address each day
+    # claude's web fetch caches by address, so a fixed address goes stale for days
+    datedFolder = root / "data" / "dated"
+    write_json(datedFolder / f"{today}_index.json", indexData)
+    write_json(datedFolder / f"{today}_health.json", healthData)
+    
     # seen.json is memory fo next time
     write_json(root/"data"/"seen.json", seen)
     # one summary line for the terminal and github actions log
