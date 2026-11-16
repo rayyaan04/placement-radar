@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T04:53:00+00:00",
+  "generated": "2026-11-16T09:06:22+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -11,14 +11,14 @@
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 212,
+      "found": 210,
       "kept": 6,
       "error": ""
     },
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 478,
+      "found": 473,
       "kept": 5,
       "error": ""
     },
@@ -39,7 +39,7 @@
     {
       "company": "Optiver",
       "platform": "greenhouse",
-      "found": 152,
+      "found": 151,
       "kept": 16,
       "error": ""
     },
@@ -81,16 +81,16 @@
     {
       "company": "NVIDIA",
       "platform": "workday",
-      "found": 80,
-      "kept": 44,
-      "error": ""
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
     },
     {
       "company": "Salesforce",
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 429 for https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
+      "error": "FetchError: http 429 for https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Sales-Immersion--Financial-Services_JR368293-1"
     },
     {
       "company": "Stripe",
@@ -109,14 +109,14 @@
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 382,
+      "found": 384,
       "kept": 6,
       "error": ""
     },
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 428,
+      "found": 425,
       "kept": 9,
       "error": ""
     },
@@ -165,51 +165,51 @@
     {
       "company": "Intel",
       "platform": "workday",
-      "found": 79,
-      "kept": 43,
-      "error": ""
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
     },
     {
       "company": "Adobe",
       "platform": "workday",
-      "found": 45,
-      "kept": 30,
-      "error": ""
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs"
     },
     {
       "company": "PayPal",
       "platform": "workday",
-      "found": 43,
-      "kept": 12,
-      "error": ""
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs"
     },
     {
       "company": "Mastercard",
       "platform": "workday",
-      "found": 46,
-      "kept": 4,
-      "error": ""
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
     },
     {
       "company": "HPE",
       "platform": "workday",
-      "found": 73,
-      "kept": 50,
-      "error": ""
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/jobs"
     },
     {
       "company": "Autodesk",
       "platform": "workday",
-      "found": 3,
+      "found": 0,
       "kept": 0,
-      "error": ""
+      "error": "FetchError: http 429 for https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs"
     },
     {
       "company": "eBay",
       "platform": "workday",
-      "found": 44,
-      "kept": 1,
-      "error": ""
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://ebay.wd5.myworkdayjobs.com/wday/cxs/ebay/apply/jobs"
     }
   ]
 }
