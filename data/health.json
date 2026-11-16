@@ -1,24 +1,24 @@
 {
-  "generated": "2026-11-16T01:45:25+00:00",
+  "generated": "2026-11-16T04:53:00+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 663,
+      "found": 661,
       "kept": 1,
       "error": ""
     },
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 211,
+      "found": 212,
       "kept": 6,
       "error": ""
     },
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 479,
+      "found": 478,
       "kept": 5,
       "error": ""
     },
@@ -32,7 +32,7 @@
     {
       "company": "IMC",
       "platform": "greenhouse",
-      "found": 157,
+      "found": 158,
       "kept": 19,
       "error": ""
     },
@@ -109,7 +109,7 @@
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 384,
+      "found": 382,
       "kept": 6,
       "error": ""
     },
@@ -123,7 +123,7 @@
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 392,
+      "found": 391,
       "kept": 3,
       "error": ""
     },
@@ -180,7 +180,7 @@
       "company": "PayPal",
       "platform": "workday",
       "found": 43,
-      "kept": 8,
+      "kept": 12,
       "error": ""
     },
     {

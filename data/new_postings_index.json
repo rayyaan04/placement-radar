@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T01:45:25+00:00",
+  "generated": "2026-11-16T04:53:00+00:00",
   "window_days": 2,
   "postings": [
     {
@@ -11,6 +11,50 @@
       "posted": "Posted Today",
       "key": "paypal_software-engineer-intern_tel-aviv_e86119",
       "first_seen": "2026-11-15",
+      "suspicious": false
+    },
+    {
+      "company": "PayPal",
+      "title": "Cyber Defense Intern",
+      "location": "Central Singapore, Singapore",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Cyber-Defense-Intern_R0138932",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "paypal_cyber-defense-intern_central-singapore_aa6cef",
+      "first_seen": "2026-11-16",
+      "suspicious": false
+    },
+    {
+      "company": "PayPal",
+      "title": "Cybersecurity Risk Intern",
+      "location": "Central Singapore, Singapore",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Cybersecurity-Risk-Intern_R0138933",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "paypal_cybersecurity-risk-intern_central-singapore_9bfe4d",
+      "first_seen": "2026-11-16",
+      "suspicious": false
+    },
+    {
+      "company": "PayPal",
+      "title": "Software Engineer Intern - Backend",
+      "location": "Central Singapore, Singapore",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Software-Engineer-Intern---Backend_R0138931",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "paypal_software-engineer-intern-backend_central-singapore_34586b",
+      "first_seen": "2026-11-16",
+      "suspicious": false
+    },
+    {
+      "company": "PayPal",
+      "title": "Full Stack Software Engineer Intern",
+      "location": "Central Singapore, Singapore",
+      "url": "https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Central-Singapore-Singapore/Full-Stack-Software-Engineer-Intern_R0138930",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "paypal_full-stack-software-engineer-intern_central-singapore_57ace6",
+      "first_seen": "2026-11-16",
       "suspicious": false
     }
   ]
