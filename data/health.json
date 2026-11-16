@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T10:48:59+00:00",
+  "generated": "2026-11-16T12:02:39+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -11,7 +11,7 @@
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 210,
+      "found": 209,
       "kept": 6,
       "error": ""
     },
@@ -32,7 +32,7 @@
     {
       "company": "IMC",
       "platform": "greenhouse",
-      "found": 158,
+      "found": 157,
       "kept": 19,
       "error": ""
     },
@@ -90,19 +90,19 @@
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 429 for https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/job/New-York---New-York/Summer-2027-Intern---Sales-Immersion--Financial-Services_JR368293-1"
+      "error": "FetchError: http 429 for https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
     },
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 786,
+      "found": 788,
       "kept": 21,
       "error": ""
     },
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 895,
+      "found": 893,
       "kept": 13,
       "error": ""
     },
@@ -123,14 +123,14 @@
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 394,
+      "found": 396,
       "kept": 3,
       "error": ""
     },
     {
       "company": "Monzo",
       "platform": "greenhouse",
-      "found": 58,
+      "found": 60,
       "kept": 0,
       "error": ""
     },
