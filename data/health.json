@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T16:15:56+00:00",
+  "generated": "2026-11-17T19:24:41+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -11,14 +11,14 @@
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 204,
+      "found": 202,
       "kept": 6,
       "error": ""
     },
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 474,
+      "found": 475,
       "kept": 5,
       "error": ""
     },
@@ -39,14 +39,14 @@
     {
       "company": "Optiver",
       "platform": "greenhouse",
-      "found": 149,
+      "found": 147,
       "kept": 16,
       "error": ""
     },
     {
       "company": "Hudson River Trading",
       "platform": "greenhouse",
-      "found": 85,
+      "found": 86,
       "kept": 5,
       "error": ""
     },
@@ -60,7 +60,7 @@
     {
       "company": "Sony",
       "platform": "greenhouse",
-      "found": 230,
+      "found": 229,
       "kept": 0,
       "error": ""
     },
@@ -74,7 +74,7 @@
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 840,
+      "found": 836,
       "kept": 0,
       "error": ""
     },
@@ -83,7 +83,7 @@
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 429 for https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/job/China-Shanghai/Performance-Engineering-Intern---2027_JR2027711"
+      "error": "FetchError: http 429 for https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/job/China-Shanghai/DFT-Intern---2027_JR2027176"
     },
     {
       "company": "Salesforce",
@@ -102,7 +102,7 @@
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 895,
+      "found": 902,
       "kept": 13,
       "error": ""
     },
@@ -116,21 +116,21 @@
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 427,
+      "found": 426,
       "kept": 9,
       "error": ""
     },
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 399,
+      "found": 394,
       "kept": 3,
       "error": ""
     },
     {
       "company": "Monzo",
       "platform": "greenhouse",
-      "found": 60,
+      "found": 59,
       "kept": 0,
       "error": ""
     },
@@ -151,14 +151,14 @@
     {
       "company": "Wise",
       "platform": "greenhouse",
-      "found": 18,
+      "found": 19,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Snowflake",
       "platform": "ashby",
-      "found": 379,
+      "found": 378,
       "kept": 6,
       "error": ""
     },
