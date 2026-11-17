@@ -1,17 +1,17 @@
 {
-  "generated": "2026-11-16T22:05:37+00:00",
+  "generated": "2026-11-17T01:34:06+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 660,
+      "found": 661,
       "kept": 1,
       "error": ""
     },
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 206,
+      "found": 210,
       "kept": 6,
       "error": ""
     },
@@ -39,7 +39,7 @@
     {
       "company": "Optiver",
       "platform": "greenhouse",
-      "found": 150,
+      "found": 148,
       "kept": 16,
       "error": ""
     },
@@ -74,7 +74,7 @@
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 833,
+      "found": 835,
       "kept": 0,
       "error": ""
     },
@@ -88,9 +88,9 @@
     {
       "company": "Salesforce",
       "platform": "workday",
-      "found": 0,
+      "found": 48,
       "kept": 0,
-      "error": "FetchError: http 429 for https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
+      "error": ""
     },
     {
       "company": "Stripe",
@@ -123,7 +123,7 @@
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 397,
+      "found": 400,
       "kept": 3,
       "error": ""
     },
@@ -167,7 +167,7 @@
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 429 for https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
+      "error": "FetchError: http 429 for https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/job/Malaysia-Kulim/Finance-Intern_JR0287472"
     },
     {
       "company": "Adobe",
