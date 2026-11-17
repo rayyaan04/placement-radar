@@ -1,17 +1,5 @@
 {
-  "generated": "2026-11-17T13:32:37+00:00",
+  "generated": "2026-11-17T16:15:56+00:00",
   "window_days": 2,
-  "postings": [
-    {
-      "company": "Salesforce",
-      "title": "Enterprise Account Executive - industrial or technology-driven sectors",
-      "location": "Germany - Munich",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Germany---Munich/Enterprise-Account-Executive---industrial-or-technology-driven-sectors_JR360026",
-      "source": "workday",
-      "posted": "Posted Today",
-      "key": "salesforce_enterprise-account-executive-industrial-or-technology-driven_germany-munich_7158ae",
-      "first_seen": "2026-11-17",
-      "suspicious": false
-    }
-  ]
+  "postings": []
 }
