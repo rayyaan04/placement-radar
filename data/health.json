@@ -1,24 +1,24 @@
 {
-  "generated": "2026-11-18T11:53:35+00:00",
+  "generated": "2026-11-18T20:39:35+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 657,
+      "found": 648,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 199,
-      "kept": 6,
+      "found": 204,
+      "kept": 7,
       "error": ""
     },
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 484,
+      "found": 496,
       "kept": 6,
       "error": ""
     },
@@ -32,7 +32,7 @@
     {
       "company": "IMC",
       "platform": "greenhouse",
-      "found": 152,
+      "found": 153,
       "kept": 19,
       "error": ""
     },
@@ -46,7 +46,7 @@
     {
       "company": "Hudson River Trading",
       "platform": "greenhouse",
-      "found": 86,
+      "found": 85,
       "kept": 5,
       "error": ""
     },
@@ -67,14 +67,14 @@
     {
       "company": "Spotify",
       "platform": "lever",
-      "found": 92,
+      "found": 90,
       "kept": 0,
       "error": ""
     },
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 837,
+      "found": 838,
       "kept": 0,
       "error": ""
     },
@@ -90,54 +90,54 @@
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 429 for https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
+      "error": "FetchError: http 429 for https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/job/Illinois---Chicago/Summer-2027-Intern---Pro-Serve-Strategy---Change-Management_JR366222-2"
     },
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 786,
+      "found": 788,
       "kept": 20,
       "error": ""
     },
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 896,
+      "found": 902,
       "kept": 13,
       "error": ""
     },
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 381,
+      "found": 380,
       "kept": 5,
       "error": ""
     },
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 416,
+      "found": 422,
       "kept": 9,
       "error": ""
     },
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 396,
+      "found": 397,
       "kept": 3,
       "error": ""
     },
     {
       "company": "Monzo",
       "platform": "greenhouse",
-      "found": 63,
+      "found": 61,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Ocado Technology",
       "platform": "greenhouse",
-      "found": 64,
+      "found": 65,
       "kept": 0,
       "error": ""
     },
@@ -151,14 +151,14 @@
     {
       "company": "Wise",
       "platform": "greenhouse",
-      "found": 19,
+      "found": 18,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Snowflake",
       "platform": "ashby",
-      "found": 378,
+      "found": 377,
       "kept": 6,
       "error": ""
     },
@@ -167,14 +167,14 @@
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 429 for https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
+      "error": "FetchError: http 429 for https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/job/Mexico-Guadalajara/Signal-Integrity-Intern_JR0288518"
     },
     {
       "company": "Adobe",
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 429 for https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs"
+      "error": "FetchError: http 429 for https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/job/Bucharest/XMLNAME-2027-Intern--Software-Engineer_R173018"
     },
     {
       "company": "PayPal",
