@@ -1,24 +1,24 @@
 {
-  "generated": "2026-11-18T02:57:04+00:00",
+  "generated": "2026-11-18T11:53:35+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 658,
-      "kept": 1,
+      "found": 657,
+      "kept": 0,
       "error": ""
     },
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 200,
-      "kept": 5,
+      "found": 199,
+      "kept": 6,
       "error": ""
     },
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 482,
+      "found": 484,
       "kept": 6,
       "error": ""
     },
@@ -32,7 +32,7 @@
     {
       "company": "IMC",
       "platform": "greenhouse",
-      "found": 153,
+      "found": 152,
       "kept": 19,
       "error": ""
     },
@@ -60,21 +60,21 @@
     {
       "company": "Sony",
       "platform": "greenhouse",
-      "found": 228,
+      "found": 230,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Spotify",
       "platform": "lever",
-      "found": 88,
+      "found": 92,
       "kept": 0,
       "error": ""
     },
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 836,
+      "found": 837,
       "kept": 0,
       "error": ""
     },
@@ -83,33 +83,33 @@
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 429 for https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/job/Japan-Tokyo/Developer-Technology-Engineer-Intern_JR2029575"
+      "error": "FetchError: http 429 for https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
     },
     {
       "company": "Salesforce",
       "platform": "workday",
-      "found": 46,
-      "kept": 2,
-      "error": ""
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
     },
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 789,
+      "found": 786,
       "kept": 20,
       "error": ""
     },
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 901,
+      "found": 896,
       "kept": 13,
       "error": ""
     },
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 382,
+      "found": 381,
       "kept": 5,
       "error": ""
     },
@@ -123,28 +123,28 @@
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 394,
+      "found": 396,
       "kept": 3,
       "error": ""
     },
     {
       "company": "Monzo",
       "platform": "greenhouse",
-      "found": 59,
+      "found": 63,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Ocado Technology",
       "platform": "greenhouse",
-      "found": 62,
+      "found": 64,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Rockstar Games",
       "platform": "greenhouse",
-      "found": 15,
+      "found": 16,
       "kept": 0,
       "error": ""
     },
@@ -158,7 +158,7 @@
     {
       "company": "Snowflake",
       "platform": "ashby",
-      "found": 371,
+      "found": 378,
       "kept": 6,
       "error": ""
     },
@@ -167,7 +167,7 @@
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 429 for https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/job/Ireland-Leixlip/Manufacturing-Engineering-Intern_JR0289209"
+      "error": "FetchError: http 429 for https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
     },
     {
       "company": "Adobe",
@@ -195,7 +195,7 @@
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 429 for https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/job/Bogota-Cundinamarca-Colombia/Intern_1214129"
+      "error": "FetchError: http 429 for https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/jobs"
     },
     {
       "company": "Autodesk",
