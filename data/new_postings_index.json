@@ -1,5 +1,39 @@
 {
-  "generated": "2026-11-17T19:24:41+00:00",
+  "generated": "2026-11-18T02:57:04+00:00",
   "window_days": 2,
-  "postings": []
+  "postings": [
+    {
+      "company": "Cloudflare",
+      "title": "AI & Automation Intern, Communications (Winter 2027)",
+      "location": "In-Office",
+      "url": "https://boards.greenhouse.io/cloudflare/jobs/8394342?gh_jid=8394342",
+      "source": "greenhouse",
+      "posted": "2026-11-17",
+      "key": "cloudflare_ai-automation-intern-communications-winter-2027_in-office_d36525",
+      "first_seen": "2026-11-18",
+      "suspicious": false
+    },
+    {
+      "company": "Salesforce",
+      "title": "Intern, Futureforce University Recruiting",
+      "location": "France - Paris",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/France---Paris/Intern--Futureforce-University-Recruiting_JR368628",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "salesforce_intern-futureforce-university-recruiting_france-paris_9ea655",
+      "first_seen": "2026-11-18",
+      "suspicious": false
+    },
+    {
+      "company": "Salesforce",
+      "title": "Enterprise Account Executive - industrial or technology-driven sectors",
+      "location": "Germany - Munich",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Germany---Munich/Enterprise-Account-Executive---industrial-or-technology-driven-sectors_JR360026",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "salesforce_enterprise-account-executive-industrial-or-technology-driven_germany-munich_7158ae",
+      "first_seen": "2026-11-17",
+      "suspicious": false
+    }
+  ]
 }
