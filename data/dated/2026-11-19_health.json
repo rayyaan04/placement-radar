@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-19T02:38:39+00:00",
+  "generated": "2026-11-19T11:50:48+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 643,
+      "found": 638,
       "kept": 0,
       "error": ""
     },
@@ -18,7 +18,7 @@
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 497,
+      "found": 496,
       "kept": 6,
       "error": ""
     },
@@ -39,7 +39,7 @@
     {
       "company": "Optiver",
       "platform": "greenhouse",
-      "found": 147,
+      "found": 148,
       "kept": 16,
       "error": ""
     },
@@ -60,7 +60,7 @@
     {
       "company": "Sony",
       "platform": "greenhouse",
-      "found": 229,
+      "found": 227,
       "kept": 0,
       "error": ""
     },
@@ -74,7 +74,7 @@
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 834,
+      "found": 833,
       "kept": 0,
       "error": ""
     },
@@ -88,28 +88,28 @@
     {
       "company": "Salesforce",
       "platform": "workday",
-      "found": 46,
-      "kept": 2,
-      "error": ""
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
     },
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 785,
-      "kept": 20,
+      "found": 780,
+      "kept": 19,
       "error": ""
     },
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 901,
+      "found": 906,
       "kept": 13,
       "error": ""
     },
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 380,
+      "found": 379,
       "kept": 5,
       "error": ""
     },
@@ -130,14 +130,14 @@
     {
       "company": "Monzo",
       "platform": "greenhouse",
-      "found": 61,
+      "found": 60,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Ocado Technology",
       "platform": "greenhouse",
-      "found": 65,
+      "found": 66,
       "kept": 0,
       "error": ""
     },
@@ -207,9 +207,9 @@
     {
       "company": "eBay",
       "platform": "workday",
-      "found": 0,
-      "kept": 0,
-      "error": "FetchError: http 429 for https://ebay.wd5.myworkdayjobs.com/wday/cxs/ebay/apply/jobs"
+      "found": 44,
+      "kept": 1,
+      "error": ""
     }
   ]
 }

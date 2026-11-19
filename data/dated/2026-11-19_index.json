@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T02:38:39+00:00",
+  "generated": "2026-11-19T11:50:48+00:00",
   "window_days": 2,
   "postings": [
     {
@@ -33,28 +33,6 @@
       "posted": "2026-11-17",
       "key": "cloudflare_ai-automation-intern-communications-winter-2027_in-office_d36525",
       "first_seen": "2026-11-18",
-      "suspicious": false
-    },
-    {
-      "company": "Salesforce",
-      "title": "Summer 2027 Intern -  Policy, Office of Ethical and Humane Use (OHEU)",
-      "location": "California - San Francisco",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern----Policy--Office-of-Ethical-and-Humane-Use--OHEU-_JR368543-2",
-      "source": "workday",
-      "posted": "Posted Today",
-      "key": "salesforce_summer-2027-intern-policy-office-of-ethical-and-humane-use-o_california-san-francisco_dd0bc4",
-      "first_seen": "2026-11-19",
-      "suspicious": false
-    },
-    {
-      "company": "Salesforce",
-      "title": "Summer 2027 Intern - Pro Serve Strategy & Change Management",
-      "location": "Illinois - Chicago",
-      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Illinois---Chicago/Summer-2027-Intern---Pro-Serve-Strategy---Change-Management_JR366222-2",
-      "source": "workday",
-      "posted": "Posted Today",
-      "key": "salesforce_summer-2027-intern-pro-serve-strategy-change-management_illinois-chicago_36048f",
-      "first_seen": "2026-11-19",
       "suspicious": false
     }
   ]
