@@ -1,0 +1,215 @@
+{
+  "generated": "2026-11-19T02:38:39+00:00",
+  "sources": [
+    {
+      "company": "Anthropic",
+      "platform": "greenhouse",
+      "found": 643,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "company": "Airbnb",
+      "platform": "greenhouse",
+      "found": 197,
+      "kept": 7,
+      "error": ""
+    },
+    {
+      "company": "Cloudflare",
+      "platform": "greenhouse",
+      "found": 497,
+      "kept": 6,
+      "error": ""
+    },
+    {
+      "company": "Jane Street",
+      "platform": "greenhouse",
+      "found": 215,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "company": "IMC",
+      "platform": "greenhouse",
+      "found": 154,
+      "kept": 19,
+      "error": ""
+    },
+    {
+      "company": "Optiver",
+      "platform": "greenhouse",
+      "found": 147,
+      "kept": 16,
+      "error": ""
+    },
+    {
+      "company": "Hudson River Trading",
+      "platform": "greenhouse",
+      "found": 86,
+      "kept": 5,
+      "error": ""
+    },
+    {
+      "company": "XTX Markets",
+      "platform": "greenhouse",
+      "found": 6,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "company": "Sony",
+      "platform": "greenhouse",
+      "found": 229,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "company": "Spotify",
+      "platform": "lever",
+      "found": 91,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "company": "OpenAI",
+      "platform": "ashby",
+      "found": 834,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "company": "NVIDIA",
+      "platform": "workday",
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://nvidia.wd5.myworkdayjobs.com/wday/cxs/nvidia/NVIDIAExternalCareerSite/jobs"
+    },
+    {
+      "company": "Salesforce",
+      "platform": "workday",
+      "found": 46,
+      "kept": 2,
+      "error": ""
+    },
+    {
+      "company": "Stripe",
+      "platform": "greenhouse",
+      "found": 785,
+      "kept": 20,
+      "error": ""
+    },
+    {
+      "company": "Databricks",
+      "platform": "greenhouse",
+      "found": 901,
+      "kept": 13,
+      "error": ""
+    },
+    {
+      "company": "Datadog",
+      "platform": "greenhouse",
+      "found": 380,
+      "kept": 5,
+      "error": ""
+    },
+    {
+      "company": "DoorDash",
+      "platform": "greenhouse",
+      "found": 418,
+      "kept": 9,
+      "error": ""
+    },
+    {
+      "company": "MongoDB",
+      "platform": "greenhouse",
+      "found": 403,
+      "kept": 3,
+      "error": ""
+    },
+    {
+      "company": "Monzo",
+      "platform": "greenhouse",
+      "found": 61,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "company": "Ocado Technology",
+      "platform": "greenhouse",
+      "found": 65,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "company": "Rockstar Games",
+      "platform": "greenhouse",
+      "found": 16,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "company": "Wise",
+      "platform": "greenhouse",
+      "found": 18,
+      "kept": 0,
+      "error": ""
+    },
+    {
+      "company": "Snowflake",
+      "platform": "ashby",
+      "found": 377,
+      "kept": 6,
+      "error": ""
+    },
+    {
+      "company": "Intel",
+      "platform": "workday",
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://intel.wd1.myworkdayjobs.com/wday/cxs/intel/External/jobs"
+    },
+    {
+      "company": "Adobe",
+      "platform": "workday",
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs"
+    },
+    {
+      "company": "PayPal",
+      "platform": "workday",
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://paypal.wd1.myworkdayjobs.com/wday/cxs/paypal/jobs/jobs"
+    },
+    {
+      "company": "Mastercard",
+      "platform": "workday",
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
+    },
+    {
+      "company": "HPE",
+      "platform": "workday",
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://hpe.wd5.myworkdayjobs.com/wday/cxs/hpe/Jobsathpe/jobs"
+    },
+    {
+      "company": "Autodesk",
+      "platform": "workday",
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://autodesk.wd1.myworkdayjobs.com/wday/cxs/autodesk/Ext/jobs"
+    },
+    {
+      "company": "eBay",
+      "platform": "workday",
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://ebay.wd5.myworkdayjobs.com/wday/cxs/ebay/apply/jobs"
+    }
+  ]
+}
