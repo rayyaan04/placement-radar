@@ -1,40 +1,7 @@
 {
-  "generated": "2026-11-19T20:45:20+00:00",
+  "generated": "2026-11-20T02:23:43+00:00",
   "window_days": 2,
   "postings": [
-    {
-      "company": "Airbnb",
-      "title": "Brand Marketing Intern, France",
-      "location": "Paris, France",
-      "url": "https://careers.airbnb.com/positions/8376045?gh_jid=8376045",
-      "source": "greenhouse",
-      "posted": "2026-11-18",
-      "key": "airbnb_brand-marketing-intern-france_paris_63fd88",
-      "first_seen": "2026-11-18",
-      "suspicious": false
-    },
-    {
-      "company": "Airbnb",
-      "title": "Software Engineering Intern (BS/MS)",
-      "location": "San Francisco, California",
-      "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
-      "source": "greenhouse",
-      "posted": "2026-11-18",
-      "key": "airbnb_software-engineering-intern-bs-ms_san-francisco_bc0701",
-      "first_seen": "2026-11-18",
-      "suspicious": false
-    },
-    {
-      "company": "Cloudflare",
-      "title": "AI & Automation Intern, Communications (Winter 2027)",
-      "location": "In-Office",
-      "url": "https://boards.greenhouse.io/cloudflare/jobs/8394342?gh_jid=8394342",
-      "source": "greenhouse",
-      "posted": "2026-11-17",
-      "key": "cloudflare_ai-automation-intern-communications-winter-2027_in-office_d36525",
-      "first_seen": "2026-11-18",
-      "suspicious": false
-    },
     {
       "company": "MongoDB",
       "title": "2027 - AI and People Transformation Intern, NYC",
@@ -55,6 +22,39 @@
       "posted": "2026-11-19",
       "key": "mongodb_2027-tax-intern-new-york-city_new-york-city_2bdb09",
       "first_seen": "2026-11-19",
+      "suspicious": false
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (AI / ML) - Summer 2027",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907",
+      "source": "ashby",
+      "posted": "2026-11-19",
+      "key": "snowflake_software-engineer-intern-ai-ml-summer-2027_us-ca-menlo-park_9b925f",
+      "first_seen": "2026-11-20",
+      "suspicious": false
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (Database Engineering) - Summer 2027",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d",
+      "source": "ashby",
+      "posted": "2026-11-19",
+      "key": "snowflake_software-engineer-intern-database-engineering-summer-2027_us-ca-menlo-park_706147",
+      "first_seen": "2026-11-20",
+      "suspicious": false
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897",
+      "source": "ashby",
+      "posted": "2026-11-19",
+      "key": "snowflake_software-engineer-intern-core-infrastructure-security-summer_us-ca-menlo-park_c072f0",
+      "first_seen": "2026-11-20",
       "suspicious": false
     }
   ]

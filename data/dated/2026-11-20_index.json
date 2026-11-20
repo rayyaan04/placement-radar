@@ -1,0 +1,61 @@
+{
+  "generated": "2026-11-20T02:23:43+00:00",
+  "window_days": 2,
+  "postings": [
+    {
+      "company": "MongoDB",
+      "title": "2027 - AI and People Transformation Intern, NYC",
+      "location": "New York City",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8346138",
+      "source": "greenhouse",
+      "posted": "2026-11-19",
+      "key": "mongodb_2027-ai-and-people-transformation-intern-nyc_new-york-city_f0bf8c",
+      "first_seen": "2026-11-19",
+      "suspicious": false
+    },
+    {
+      "company": "MongoDB",
+      "title": "2027 - Tax Intern, New York City",
+      "location": "New York City",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8301842",
+      "source": "greenhouse",
+      "posted": "2026-11-19",
+      "key": "mongodb_2027-tax-intern-new-york-city_new-york-city_2bdb09",
+      "first_seen": "2026-11-19",
+      "suspicious": false
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (AI / ML) - Summer 2027",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907",
+      "source": "ashby",
+      "posted": "2026-11-19",
+      "key": "snowflake_software-engineer-intern-ai-ml-summer-2027_us-ca-menlo-park_9b925f",
+      "first_seen": "2026-11-20",
+      "suspicious": false
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (Database Engineering) - Summer 2027",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d",
+      "source": "ashby",
+      "posted": "2026-11-19",
+      "key": "snowflake_software-engineer-intern-database-engineering-summer-2027_us-ca-menlo-park_706147",
+      "first_seen": "2026-11-20",
+      "suspicious": false
+    },
+    {
+      "company": "Snowflake",
+      "title": "Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027",
+      "location": "US-CA-Menlo Park",
+      "url": "https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897",
+      "source": "ashby",
+      "posted": "2026-11-19",
+      "key": "snowflake_software-engineer-intern-core-infrastructure-security-summer_us-ca-menlo-park_c072f0",
+      "first_seen": "2026-11-20",
+      "suspicious": false
+    }
+  ]
+}
