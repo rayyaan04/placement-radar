@@ -1,7 +1,73 @@
 {
-  "generated": "2026-11-20T11:52:00+00:00",
+  "generated": "2026-11-20T20:29:35+00:00",
   "window_days": 2,
   "postings": [
+    {
+      "company": "Airbnb",
+      "title": "Partnerships Enablement Intern",
+      "location": "Paris, France",
+      "url": "https://careers.airbnb.com/positions/8406333?gh_jid=8406333",
+      "source": "greenhouse",
+      "posted": "2026-11-20",
+      "key": "airbnb_partnerships-enablement-intern_paris_dc0c79",
+      "first_seen": "2026-11-20",
+      "suspicious": false
+    },
+    {
+      "company": "Salesforce",
+      "title": "Summer 2027 Intern - Product Marketing, Missionforce",
+      "location": "California - San Francisco",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Marketing--Missionforce_JR369152-1",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "salesforce_summer-2027-intern-product-marketing-missionforce_california-san-francisco_b78f3a",
+      "first_seen": "2026-11-20",
+      "suspicious": false
+    },
+    {
+      "company": "Salesforce",
+      "title": "Summer 2027 Intern - Field Marketing, Missionforce",
+      "location": "Virginia - Mclean",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Mclean/Summer-2027-Intern---Field-Marketing--Missionforce_JR369144-1",
+      "source": "workday",
+      "posted": "Posted Today",
+      "key": "salesforce_summer-2027-intern-field-marketing-missionforce_virginia-mclean_f6704d",
+      "first_seen": "2026-11-20",
+      "suspicious": false
+    },
+    {
+      "company": "Salesforce",
+      "title": "Summer 2027 Intern - Sales Development, Public Sector",
+      "location": "Virginia - Mclean",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Mclean/Summer-2027-Intern---Sales-Development--Public-Sector_JR360458-1",
+      "source": "workday",
+      "posted": "Posted Yesterday",
+      "key": "salesforce_summer-2027-intern-sales-development-public-sector_virginia-mclean_38308c",
+      "first_seen": "2026-11-20",
+      "suspicious": false
+    },
+    {
+      "company": "Salesforce",
+      "title": "Data Strategy Analytics Intern - February 2027",
+      "location": "France - Paris",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/France---Paris/Data-Strategy-Analytics-Intern---February-2027_JR368617",
+      "source": "workday",
+      "posted": "Posted Yesterday",
+      "key": "salesforce_data-strategy-analytics-intern-february-2027_france-paris_0c9914",
+      "first_seen": "2026-11-20",
+      "suspicious": false
+    },
+    {
+      "company": "Salesforce",
+      "title": "Data Science & Analytics Intern, Alliances & Channels - February 2027",
+      "location": "France - Paris",
+      "url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/France---Paris/Data-Science---Analytics-Intern--Alliances---Channels---February-2027_JR368786-1",
+      "source": "workday",
+      "posted": "Posted Yesterday",
+      "key": "salesforce_data-science-analytics-intern-alliances-channels-february-20_france-paris_3ea425",
+      "first_seen": "2026-11-20",
+      "suspicious": false
+    },
     {
       "company": "MongoDB",
       "title": "2027 - AI and People Transformation Intern, NYC",
@@ -11,6 +77,17 @@
       "posted": "2026-11-19",
       "key": "mongodb_2027-ai-and-people-transformation-intern-nyc_new-york-city_f0bf8c",
       "first_seen": "2026-11-19",
+      "suspicious": false
+    },
+    {
+      "company": "MongoDB",
+      "title": "2027 - Finance Intern, San Francisco",
+      "location": "San Francisco",
+      "url": "https://www.mongodb.com/careers/job/?gh_jid=8346144",
+      "source": "greenhouse",
+      "posted": "2026-11-20",
+      "key": "mongodb_2027-finance-intern-san-francisco_san-francisco_e64e9d",
+      "first_seen": "2026-11-20",
       "suspicious": false
     },
     {
