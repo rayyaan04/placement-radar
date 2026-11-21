@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-20T20:29:35+00:00",
+  "generated": "2026-11-21T02:26:40+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 638,
+      "found": 634,
       "kept": 0,
       "error": ""
     },
@@ -18,7 +18,7 @@
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 496,
+      "found": 503,
       "kept": 4,
       "error": ""
     },
@@ -60,21 +60,21 @@
     {
       "company": "Sony",
       "platform": "greenhouse",
-      "found": 218,
+      "found": 217,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Spotify",
       "platform": "lever",
-      "found": 89,
+      "found": 91,
       "kept": 0,
       "error": ""
     },
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 851,
+      "found": 852,
       "kept": 0,
       "error": ""
     },
@@ -88,14 +88,14 @@
     {
       "company": "Salesforce",
       "platform": "workday",
-      "found": 47,
-      "kept": 5,
-      "error": ""
+      "found": 0,
+      "kept": 0,
+      "error": "FetchError: http 429 for https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
     },
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 779,
+      "found": 778,
       "kept": 20,
       "error": ""
     },
@@ -116,7 +116,7 @@
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 413,
+      "found": 409,
       "kept": 9,
       "error": ""
     },
@@ -130,7 +130,7 @@
     {
       "company": "Monzo",
       "platform": "greenhouse",
-      "found": 60,
+      "found": 59,
       "kept": 0,
       "error": ""
     },
@@ -158,7 +158,7 @@
     {
       "company": "Snowflake",
       "platform": "ashby",
-      "found": 372,
+      "found": 374,
       "kept": 9,
       "error": ""
     },
