@@ -1,17 +1,17 @@
 {
-  "generated": "2026-11-21T02:26:40+00:00",
+  "generated": "2026-11-21T11:19:55+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 634,
+      "found": 633,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 203,
+      "found": 202,
       "kept": 8,
       "error": ""
     },
