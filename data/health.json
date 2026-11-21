@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-21T11:19:55+00:00",
+  "generated": "2026-11-21T19:25:39+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 633,
+      "found": 635,
       "kept": 0,
       "error": ""
     },
@@ -18,7 +18,7 @@
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 503,
+      "found": 504,
       "kept": 4,
       "error": ""
     },
@@ -60,7 +60,7 @@
     {
       "company": "Sony",
       "platform": "greenhouse",
-      "found": 217,
+      "found": 215,
       "kept": 0,
       "error": ""
     },
@@ -90,7 +90,7 @@
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 429 for https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/jobs"
+      "error": "FetchError: http 429 for https://salesforce.wd12.myworkdayjobs.com/wday/cxs/salesforce/External_Career_Site/job/California---San-Francisco/Summer-2027-Intern---Product-Management_JR367659-1"
     },
     {
       "company": "Stripe",
@@ -102,7 +102,7 @@
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 897,
+      "found": 895,
       "kept": 14,
       "error": ""
     },
@@ -116,7 +116,7 @@
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 409,
+      "found": 408,
       "kept": 9,
       "error": ""
     },
@@ -174,7 +174,7 @@
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 429 for https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/jobs"
+      "error": "FetchError: http 429 for https://adobe.wd5.myworkdayjobs.com/wday/cxs/adobe/external_experienced/job/London/XMLNAME-2027-Intern---International-Sports-Partnerships-Intern_R173218"
     },
     {
       "company": "PayPal",
