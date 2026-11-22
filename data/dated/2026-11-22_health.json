@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-22T11:37:53+00:00",
+  "generated": "2026-11-22T19:48:42+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 635,
+      "found": 636,
       "kept": 0,
       "error": ""
     },
@@ -102,7 +102,7 @@
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 895,
+      "found": 893,
       "kept": 14,
       "error": ""
     },
@@ -130,14 +130,14 @@
     {
       "company": "Monzo",
       "platform": "greenhouse",
-      "found": 59,
+      "found": 58,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Ocado Technology",
       "platform": "greenhouse",
-      "found": 65,
+      "found": 64,
       "kept": 0,
       "error": ""
     },
@@ -188,7 +188,7 @@
       "platform": "workday",
       "found": 0,
       "kept": 0,
-      "error": "FetchError: http 429 for https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/job/Riyadh-Saudi-Arabia/Associate-Consultant-Intern--Summer-2027---Saudi-Arabia_R-287594-2"
+      "error": "FetchError: http 429 for https://mastercard.wd1.myworkdayjobs.com/wday/cxs/mastercard/CorporateCareers/jobs"
     },
     {
       "company": "HPE",
