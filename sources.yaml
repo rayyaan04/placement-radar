@@ -40,17 +40,27 @@
   platform: ashby
   board: openai             # 816 jobs
 
-# workday, not checked live yet, health.json will show an error if any part is wrong
-- company: NVIDIA
+# workday 
+#- company: NVIDIA
+#  platform: workday
+#  host: nvidia.wd5.myworkdayjobs.com
+#  tenant: nvidia
+#  site: NVIDIAExternalCareerSite
+#- company: Salesforce
+#  platform: workday
+#  host: salesforce.wd12.myworkdayjobs.com
+#  tenant: salesforce
+#  site: External_Career_Site
+- company: CrowdStrike
   platform: workday
-  host: nvidia.wd5.myworkdayjobs.com
-  tenant: nvidia
-  site: NVIDIAExternalCareerSite
-- company: Salesforce
+  host: crowdstrike.wd5.myworkdayjobs.com	
+  tenant: crowdstrike
+  site: crowdstrikecareers
+- company: Visa
   platform: workday
-  host: salesforce.wd12.myworkdayjobs.com
-  tenant: salesforce
-  site: External_Career_Site
+  host: visa.wd5.myworkdayjobs.com	
+  tenant: visa
+  site: Visa_Early_Careers
 
 # tier 2a, added 8 nov 2026
 
