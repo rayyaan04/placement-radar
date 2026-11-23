@@ -6,12 +6,14 @@ import requests
 from placement_radar.http import FetchError, fetch_json
 
 class Response:
-    # fake reply: status code and some json
-    def __init__(self, code, data=None):
-        self.status_code, self._data = code, data
+    # fake reply with a status code, json data and headers like a real requests response
+    def __init__(self, status_code, data=None, headers=None):   
+        self.status_code = status_code
+        self.data = data
+        self.headers = headers or {}                             
 
     def json(self):
-        return self._data
+        return self.data
 
 
 class Session:
