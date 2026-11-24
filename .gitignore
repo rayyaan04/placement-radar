@@ -223,3 +223,7 @@ __marimo__/
   *.docx
   story_bank.md
   
+
+# dont add personal files
+evaluation/roles.csv
+evaluation/filtered.csv
