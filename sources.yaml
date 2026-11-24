@@ -51,17 +51,51 @@
 #  host: salesforce.wd12.myworkdayjobs.com
 #  tenant: salesforce
 #  site: External_Career_Site
-- company: CrowdStrike
-  platform: workday
-  host: crowdstrike.wd5.myworkdayjobs.com	
-  tenant: crowdstrike
-  site: crowdstrikecareers
-- company: Visa
-  platform: workday
-  host: visa.wd5.myworkdayjobs.com	
-  tenant: visa
-  site: Visa_Early_Careers
-
+#- company: CrowdStrike
+#  platform: workday
+#  host: crowdstrike.wd5.myworkdayjobs.com
+#  tenant: crowdstrike
+#  site: crowdstrikecareers
+#- company: Visa
+# platform: workday
+# host: visa.wd5.myworkdayjobs.com
+# tenant: visa
+# site: Visa_Early_Careers
+#- company: Intel
+#  platform: workday
+#  host: intel.wd1.myworkdayjobs.com
+#  tenant: intel
+#  site: External
+#- company: Adobe
+# platform: workday
+#  host: adobe.wd5.myworkdayjobs.com
+#  tenant: adobe
+#  site: external_experienced
+#- company: PayPal
+#  platform: workday
+#  host: paypal.wd1.myworkdayjobs.com
+#  tenant: paypal
+#  site: jobs
+#- company: Mastercard
+#  platform: workday
+#  host: mastercard.wd1.myworkdayjobs.com
+#  tenant: mastercard
+#  site: CorporateCareers
+#- company: HPE
+#  platform: workday
+#  host: hpe.wd5.myworkdayjobs.com
+#  tenant: hpe
+#  site: Jobsathpe
+#- company: Autodesk
+#  platform: workday
+#  host: autodesk.wd1.myworkdayjobs.com
+#  tenant: autodesk
+#  site: Ext
+#- company: eBay
+#  platform: workday
+#  host: ebay.wd5.myworkdayjobs.com
+#  tenant: ebay
+#  site: apply
 # tier 2a, added 8 nov 2026
 
 # greenhouse
@@ -98,39 +132,5 @@
   platform: ashby
   board: snowflake          # 372 jobs
 
-# workday, not checked live, delete any that show an error in health.json
-- company: Intel
-  platform: workday
-  host: intel.wd1.myworkdayjobs.com
-  tenant: intel
-  site: External
-- company: Adobe
-  platform: workday
-  host: adobe.wd5.myworkdayjobs.com
-  tenant: adobe
-  site: external_experienced
-- company: PayPal
-  platform: workday
-  host: paypal.wd1.myworkdayjobs.com
-  tenant: paypal
-  site: jobs
-- company: Mastercard
-  platform: workday
-  host: mastercard.wd1.myworkdayjobs.com
-  tenant: mastercard
-  site: CorporateCareers
-- company: HPE
-  platform: workday
-  host: hpe.wd5.myworkdayjobs.com
-  tenant: hpe
-  site: Jobsathpe
-- company: Autodesk
-  platform: workday
-  host: autodesk.wd1.myworkdayjobs.com
-  tenant: autodesk
-  site: Ext
-- company: eBay
-  platform: workday
-  host: ebay.wd5.myworkdayjobs.com
-  tenant: ebay
-  site: apply
+
+
