@@ -1,10 +1,10 @@
 {
-  "generated": "2026-11-24T23:56:13+00:00",
+  "generated": "2026-11-25T08:46:43+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 635,
+      "found": 636,
       "kept": 0,
       "error": ""
     },
@@ -18,7 +18,7 @@
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 512,
+      "found": 513,
       "kept": 5,
       "error": ""
     },
@@ -33,20 +33,20 @@
       "company": "IMC",
       "platform": "greenhouse",
       "found": 152,
-      "kept": 19,
+      "kept": 20,
       "error": ""
     },
     {
       "company": "Optiver",
       "platform": "greenhouse",
-      "found": 147,
+      "found": 146,
       "kept": 16,
       "error": ""
     },
     {
       "company": "Hudson River Trading",
       "platform": "greenhouse",
-      "found": 85,
+      "found": 86,
       "kept": 5,
       "error": ""
     },
@@ -67,35 +67,35 @@
     {
       "company": "Spotify",
       "platform": "lever",
-      "found": 92,
+      "found": 93,
       "kept": 0,
       "error": ""
     },
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 876,
+      "found": 877,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 770,
+      "found": 771,
       "kept": 20,
       "error": ""
     },
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 890,
+      "found": 888,
       "kept": 14,
       "error": ""
     },
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 386,
+      "found": 388,
       "kept": 5,
       "error": ""
     },
@@ -109,7 +109,7 @@
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 418,
+      "found": 419,
       "kept": 6,
       "error": ""
     },
@@ -144,7 +144,7 @@
     {
       "company": "Snowflake",
       "platform": "ashby",
-      "found": 371,
+      "found": 370,
       "kept": 7,
       "error": ""
     }
