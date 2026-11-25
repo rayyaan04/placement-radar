@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T08:46:43+00:00",
+  "generated": "2026-11-25T19:23:50+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -18,14 +18,14 @@
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 513,
-      "kept": 5,
+      "found": 517,
+      "kept": 4,
       "error": ""
     },
     {
       "company": "Jane Street",
       "platform": "greenhouse",
-      "found": 217,
+      "found": 219,
       "kept": 0,
       "error": ""
     },
@@ -53,14 +53,14 @@
     {
       "company": "XTX Markets",
       "platform": "greenhouse",
-      "found": 6,
+      "found": 7,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Sony",
       "platform": "greenhouse",
-      "found": 211,
+      "found": 210,
       "kept": 0,
       "error": ""
     },
@@ -81,49 +81,49 @@
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 771,
-      "kept": 20,
+      "found": 773,
+      "kept": 19,
       "error": ""
     },
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 888,
+      "found": 874,
       "kept": 14,
       "error": ""
     },
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 388,
+      "found": 390,
       "kept": 5,
       "error": ""
     },
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 399,
+      "found": 400,
       "kept": 9,
       "error": ""
     },
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 419,
+      "found": 421,
       "kept": 6,
       "error": ""
     },
     {
       "company": "Monzo",
       "platform": "greenhouse",
-      "found": 53,
+      "found": 54,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Ocado Technology",
       "platform": "greenhouse",
-      "found": 61,
+      "found": 62,
       "kept": 0,
       "error": ""
     },
