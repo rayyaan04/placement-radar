@@ -1,18 +1,5 @@
 {
-  "generated": "2026-11-25T19:23:50+00:00",
+  "generated": "2026-11-26T03:38:30+00:00",
   "window_days": 2,
-  "postings": [
-    {
-      "company": "IMC",
-      "title": "SYD - 2027  - Machine Learning Intern",
-      "location": "Sydney,  Australia",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4982344101",
-      "source": "greenhouse",
-      "posted": "2026-11-25",
-      "description": "**Keep all section titles consistent and bolded . Delete the guidance provided in this template before posting to the IMC website.**\n&nbsp;\nAll job descriptions must start with a brief yet compelling summary of the opportunity available at IMC (e.g., specific details about the team, position, program, impact on the business, etc.)&nbsp;\n&nbsp;\n[Space – Remove before posting]\n&nbsp;\nYour Core Responsibilities:&nbsp;\nEssential tasks must be documented using bullet format and concise language. &nbsp;\n&nbsp;\n[Space – Remove before posting]&nbsp;\n&nbsp;\nYour Skills and Experience:&nbsp;\nQualifications for the position must be documented using bullet format and concise language. Please include the education, knowledge, skills, and behavioral competencies required to be successful in the position.&nbsp;\nAbout Us\nIMC is a research-driven trading firm where quantitative modeling, machine learning, and engineering shape how modern markets are traded. A stabilizing force in markets since 1989, we provide liquidity across trading venues, delivering the best outcome in value and risk management to investors. Using our own technology and capital, we build proprietary systems and algorithms that operate across global markets. Our researchers, traders, and engineers work as a collective, combining rapid experimentation, advanced infrastructure, and real-time feedback to turn insight into execution and execution into advantage.\n&nbsp;",
-      "key": "imc_syd-2027-machine-learning-intern_sydney_2d57c4",
-      "first_seen": "2026-11-25",
-      "suspicious": false
-    }
-  ]
+  "postings": []
 }

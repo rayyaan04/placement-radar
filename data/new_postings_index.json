@@ -1,17 +1,5 @@
 {
-  "generated": "2026-11-25T19:23:50+00:00",
+  "generated": "2026-11-26T03:38:30+00:00",
   "window_days": 2,
-  "postings": [
-    {
-      "company": "IMC",
-      "title": "SYD - 2027  - Machine Learning Intern",
-      "location": "Sydney,  Australia",
-      "url": "https://job-boards.eu.greenhouse.io/imc/jobs/4982344101",
-      "source": "greenhouse",
-      "posted": "2026-11-25",
-      "key": "imc_syd-2027-machine-learning-intern_sydney_2d57c4",
-      "first_seen": "2026-11-25",
-      "suspicious": false
-    }
-  ]
+  "postings": []
 }

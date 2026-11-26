@@ -1,24 +1,24 @@
 {
-  "generated": "2026-11-25T19:23:50+00:00",
+  "generated": "2026-11-26T03:38:30+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 636,
+      "found": 635,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 200,
+      "found": 199,
       "kept": 8,
       "error": ""
     },
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 517,
+      "found": 523,
       "kept": 4,
       "error": ""
     },
@@ -32,8 +32,8 @@
     {
       "company": "IMC",
       "platform": "greenhouse",
-      "found": 152,
-      "kept": 20,
+      "found": 151,
+      "kept": 19,
       "error": ""
     },
     {
@@ -60,28 +60,28 @@
     {
       "company": "Sony",
       "platform": "greenhouse",
-      "found": 210,
+      "found": 209,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Spotify",
       "platform": "lever",
-      "found": 93,
+      "found": 96,
       "kept": 0,
       "error": ""
     },
     {
       "company": "OpenAI",
       "platform": "ashby",
-      "found": 877,
+      "found": 876,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 773,
+      "found": 772,
       "kept": 19,
       "error": ""
     },
@@ -95,21 +95,21 @@
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 390,
+      "found": 392,
       "kept": 5,
       "error": ""
     },
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 400,
+      "found": 402,
       "kept": 9,
       "error": ""
     },
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 421,
+      "found": 422,
       "kept": 6,
       "error": ""
     },
@@ -123,7 +123,7 @@
     {
       "company": "Ocado Technology",
       "platform": "greenhouse",
-      "found": 62,
+      "found": 61,
       "kept": 0,
       "error": ""
     },
@@ -144,7 +144,7 @@
     {
       "company": "Snowflake",
       "platform": "ashby",
-      "found": 370,
+      "found": 369,
       "kept": 7,
       "error": ""
     }
