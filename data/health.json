@@ -1,25 +1,25 @@
 {
-  "generated": "2026-11-26T03:38:30+00:00",
+  "generated": "2026-11-26T17:02:21+00:00",
   "sources": [
     {
       "company": "Anthropic",
       "platform": "greenhouse",
-      "found": 635,
+      "found": 634,
       "kept": 0,
       "error": ""
     },
     {
       "company": "Airbnb",
       "platform": "greenhouse",
-      "found": 199,
+      "found": 201,
       "kept": 8,
       "error": ""
     },
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 523,
-      "kept": 4,
+      "found": 528,
+      "kept": 3,
       "error": ""
     },
     {
@@ -32,7 +32,7 @@
     {
       "company": "IMC",
       "platform": "greenhouse",
-      "found": 151,
+      "found": 149,
       "kept": 19,
       "error": ""
     },
@@ -67,7 +67,7 @@
     {
       "company": "Spotify",
       "platform": "lever",
-      "found": 96,
+      "found": 97,
       "kept": 0,
       "error": ""
     },
@@ -81,21 +81,21 @@
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 772,
+      "found": 768,
       "kept": 19,
       "error": ""
     },
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 874,
+      "found": 881,
       "kept": 14,
       "error": ""
     },
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 392,
+      "found": 391,
       "kept": 5,
       "error": ""
     },
@@ -109,14 +109,14 @@
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 422,
+      "found": 421,
       "kept": 6,
       "error": ""
     },
     {
       "company": "Monzo",
       "platform": "greenhouse",
-      "found": 54,
+      "found": 57,
       "kept": 0,
       "error": ""
     },
@@ -130,7 +130,7 @@
     {
       "company": "Rockstar Games",
       "platform": "greenhouse",
-      "found": 16,
+      "found": 15,
       "kept": 0,
       "error": ""
     },
@@ -144,7 +144,7 @@
     {
       "company": "Snowflake",
       "platform": "ashby",
-      "found": 369,
+      "found": 376,
       "kept": 7,
       "error": ""
     }
