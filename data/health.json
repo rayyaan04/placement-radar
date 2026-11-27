@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T12:41:42+00:00",
+  "generated": "2026-11-27T23:31:27+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -18,7 +18,7 @@
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 532,
+      "found": 533,
       "kept": 3,
       "error": ""
     },
@@ -32,7 +32,7 @@
     {
       "company": "IMC",
       "platform": "greenhouse",
-      "found": 150,
+      "found": 151,
       "kept": 19,
       "error": ""
     },
@@ -67,7 +67,7 @@
     {
       "company": "Spotify",
       "platform": "lever",
-      "found": 97,
+      "found": 98,
       "kept": 0,
       "error": ""
     },
@@ -81,42 +81,42 @@
     {
       "company": "Stripe",
       "platform": "greenhouse",
-      "found": 766,
+      "found": 771,
       "kept": 19,
       "error": ""
     },
     {
       "company": "Databricks",
       "platform": "greenhouse",
-      "found": 881,
+      "found": 889,
       "kept": 14,
       "error": ""
     },
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 391,
+      "found": 390,
       "kept": 5,
       "error": ""
     },
     {
       "company": "DoorDash",
       "platform": "greenhouse",
-      "found": 402,
+      "found": 401,
       "kept": 9,
       "error": ""
     },
     {
       "company": "MongoDB",
       "platform": "greenhouse",
-      "found": 427,
+      "found": 424,
       "kept": 6,
       "error": ""
     },
     {
       "company": "Monzo",
       "platform": "greenhouse",
-      "found": 58,
+      "found": 56,
       "kept": 0,
       "error": ""
     },
@@ -144,7 +144,7 @@
     {
       "company": "Snowflake",
       "platform": "ashby",
-      "found": 379,
+      "found": 380,
       "kept": 7,
       "error": ""
     }
