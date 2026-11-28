@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-27T23:31:27+00:00",
+  "generated": "2026-11-28T07:59:00+00:00",
   "sources": [
     {
       "company": "Anthropic",
@@ -18,7 +18,7 @@
     {
       "company": "Cloudflare",
       "platform": "greenhouse",
-      "found": 533,
+      "found": 532,
       "kept": 3,
       "error": ""
     },
@@ -95,7 +95,7 @@
     {
       "company": "Datadog",
       "platform": "greenhouse",
-      "found": 390,
+      "found": 392,
       "kept": 5,
       "error": ""
     },
